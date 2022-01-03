@@ -285,3 +285,6 @@ data
 ## .pem files
 *.pem
 
+## deployment
+Archive.zip
+
