@@ -276,8 +276,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-## Personal
+## macOS
 .idea
 
 ## docker-compose
 data
+
+## .pem files
+*.pem
+
