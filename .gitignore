@@ -286,7 +286,7 @@ data
 *.pem
 
 ## deployment
-Archive.zip
+*.zip
 
 
 # Elastic Beanstalk Files
