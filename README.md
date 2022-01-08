@@ -59,13 +59,5 @@ local configuration.
 ```shell
 $ docker-compose --env-file .env.development -f docker-compose.development.yml up --build
 ```
-Only the first time it takes about 1-2 minutes to build be
-then the API will be available at 
-
-# Deployment
-For the moment we don't have resources for a staging domain, thus we'll be
-using the production domain as staging domain.
-
-## Staging
-
-
+Only the first time it takes about 1-2 minutes to build be containers as the needed
+images are downloaded, then the API will be available at <http://localhost:8000>.
