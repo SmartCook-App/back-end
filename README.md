@@ -42,3 +42,8 @@ DB_PORT = 5432
 ```python
 python3 manage.py runserver
 ```
+
+# Deployment
+For the moment we don't have resources for a staging domain, thus we'll be
+using
+## Staging

@@ -244,7 +244,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+.env.development
 .venv
 env/
 venv/
@@ -276,8 +276,23 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-## Personal
+## macOS
 .idea
 
 ## docker-compose
 data
+
+## .pem files
+*.pem
+
+## deployment
+*.zip
+
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# env
+.env.*

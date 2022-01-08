@@ -29,7 +29,8 @@ SECRET_KEY = str(getenv('SECRET_KEY'))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool(getenv('DEBUG'))
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [getenv('DJANGO_ALLOWED_HOSTS')]
+SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
 
 
 # Application definition
