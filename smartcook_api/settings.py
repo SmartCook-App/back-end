@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'apps.recipe.apps.RecipeConfig',
     'apps.shopList.apps.ShoplistConfig',
     'apps.dailyMenus.apps.DailymenusConfig',
+    'apps.step.apps.StepConfig',
 ]
 
 MIDDLEWARE = [
