@@ -1,0 +1,85 @@
+[
+    {
+        "model": "user.User",
+        "pk": 1,
+        "fields": {
+            "email": "paula@larenas.cl",
+            "first_name": "Paula",
+            "last_name": "Larenas",
+            "phone_number": "988043325",
+            "birthdate": "1986-04-28",
+            "gender": "female",
+            "is_cooker": "True"
+        }
+    },
+    {
+        "model": "user.User",
+        "pk": 2,
+        "fields": {
+            "email": "virginia@demaria.cl",
+            "password": "laksdnlidnew",
+            "first_name": "Virginia",
+            "last_name": "De Maria",
+            "phone_number": "9226374568",
+            "birthdate": "1983-03-17",
+            "gender": "female",
+            "is_cooker": "True"
+        }
+    },
+    {
+        "model": "user.User",
+        "pk": 3,
+        "fields": {
+            "email": "fivaldivia@uc.cl",
+            "password": "zxcvbnm",
+            "first_name": "Flo",
+            "last_name": "Valdivia",
+            "phone_number": "922637456",
+            "birthdate": "1998-03-17",
+            "gender": "female",
+            "is_cooker": "False"
+        }
+    },
+    {
+        "model": "user.User",
+        "pk": 4,
+        "fields": {
+            "email": "mjtala@uc.cl",
+            "password": "zxcvbnm",
+            "first_name": "María",
+            "last_name": "Tala",
+            "phone_number": "950120998",
+            "birthdate": "1999-03-17",
+            "gender": "female",
+            "is_cooker": "False"
+        }
+    },
+    {
+        "model": "user.User",
+        "pk": 5,
+        "fields": {
+            "email": "mauro@uc.cl",
+            "password": "1234567890",
+            "first_name": "Mauro",
+            "last_name": "Mendoza",
+            "phone_number": "926374568",
+            "birthdate": "1999-03-17",
+            "gender": "masculine",
+            "is_cooker": "False"
+        }
+    },
+    {
+        "model": "user.User",
+        "pk": 6,
+        "fields": {
+            "email": "santiago@uc.cl",
+            "password": "1234567890",
+            "first_name": "Santiago",
+            "last_name": "Matus",
+            "phone_number": "926374568",
+            "birthdate": "1983-03-17",
+            "gender": "masculine",
+            "is_cooker": "False"
+        }
+    }
+]
