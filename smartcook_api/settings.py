@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'apps.step.apps.StepConfig',
     'apps.dishCategory.apps.DishcategoryConfig',
     'apps.video.apps.VideoConfig',
+    'apps.ingredient.apps.IngredientConfig',
 ]
 
 MIDDLEWARE = [

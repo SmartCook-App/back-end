@@ -16,7 +16,8 @@ class User(AbstractUser):
 
     saved_recipes = models.ManyToManyField('recipe.Recipe')
 
-    liked_recipes = models.ManyToManyField('recipe.Recipe', related_name='liked_recipes')
+    liked_recipes = models.ManyToManyField(
+        'recipe.Recipe', related_name='liked_recipes')
 
     follows_user = models.ManyToManyField('user.User')
 
