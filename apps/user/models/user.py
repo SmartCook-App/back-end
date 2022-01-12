@@ -16,5 +16,7 @@ class User(AbstractUser):
 
     saved_recipes = models.ManyToManyField('recipe.Recipe')
 
+    follows_user = models.ManyToManyField('user.User')
+
     def __str__(self):
         return self.get_full_name()
