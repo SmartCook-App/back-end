@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'apps.shopList.apps.ShoplistConfig',
     'apps.dailyMenus.apps.DailymenusConfig',
     'apps.step.apps.StepConfig',
+    'apps.dishCategory.apps.DishcategoryConfig',
 ]
 
 MIDDLEWARE = [
