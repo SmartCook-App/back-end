@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'phonenumber_field',
     'apps.user.apps.UserConfig',
     'apps.recipe.apps.RecipeConfig',
+    'apps.shopList.apps.ShoplistConfig',
 ]
 
 MIDDLEWARE = [
