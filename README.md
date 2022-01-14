@@ -24,15 +24,15 @@ if your getting something like this, you're ready to go to next step!
 We don't have Dev Containers yet, so first, you need to create a virtual environment
 for the project,
 ```shell
-$ python3 -m venv SmartCook_API_venv
+python3 -m venv SmartCook_API_venv
 ```
 activate it,
 ```shell
-$ source SmartCook_API_venv/bin/activate
+source SmartCook_API_venv/bin/activate
 ```
 and finally install the packages listed in `requirements.txt`
 ```shell
-$ pip3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 then you must configure your preferred IDE to use that venv as interpreter.
 
@@ -57,7 +57,7 @@ local configuration.
 
 # Run the API
 ```shell
-$ docker-compose --env-file .env.development -f docker-compose.development.yml up --build
+docker-compose --env-file .env.development -f docker-compose.development.yml up --build
 ```
 Only the first time it takes about 1-2 minutes to build be containers as the needed
 images are downloaded, then the API will be available at <http://localhost:8000>.
