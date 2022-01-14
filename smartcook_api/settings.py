@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'apps.dishCategory.apps.DishcategoryConfig',
     'apps.video.apps.VideoConfig',
     'apps.ingredient.apps.IngredientConfig',
+    'apps.categoriesCreatedByUsers.apps.CategoriescreatedbyusersConfig'
 ]
 
 MIDDLEWARE = [
