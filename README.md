@@ -53,7 +53,7 @@ DB_HOST = db
 DB_PORT = 5432
 ```
 don't forget to change the `DB_USER` and `DB_PASSWORD` depending on your Postgresql
-local configuration.
+local configuration. And to upgrade pip if necessary
 
 # Run the API
 ```shell
