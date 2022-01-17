@@ -1,0 +1,1 @@
+from .ingredientCategory import IngredientCategory

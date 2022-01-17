@@ -1,0 +1,1 @@
+from .shopList import ShopList

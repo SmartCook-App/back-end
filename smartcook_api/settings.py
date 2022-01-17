@@ -45,6 +45,14 @@ INSTALLED_APPS = [
     'phonenumber_field',
     'apps.user.apps.UserConfig',
     'apps.recipe.apps.RecipeConfig',
+    'apps.step.apps.StepConfig',
+    'apps.video.apps.VideoConfig',
+    'apps.dishCategory.apps.DishcategoryConfig',
+    'apps.categoriesCreatedByUsers.apps.CategoriescreatedbyusersConfig',
+    'apps.dailyMenus.apps.DailymenusConfig',
+    'apps.ingredientCategory.apps.IngredientcategoryConfig',
+    'apps.ingredient.apps.IngredientConfig',
+    'apps.shopList.apps.ShoplistConfig',
 ]
 
 MIDDLEWARE = [

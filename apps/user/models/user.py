@@ -16,5 +16,22 @@ class User(AbstractUser):
 
     saved_recipes = models.ManyToManyField('recipe.Recipe')
 
+    liked_recipes = models.ManyToManyField(
+        'recipe.Recipe', related_name='liked_recipes')
+
+    follows_user = models.ManyToManyField('user.User')
+
+    user_profile_categories = models.ManyToManyField(
+        'recipe.Recipe', through='CategoriesInUserProfile', through_fields=('user_id', 'recipe_id'), related_name='user_profile_categories')
+
     def __str__(self):
         return self.get_full_name()
+
+
+class CategoriesInUserProfile(models.Model):
+    recipe_id = models.ForeignKey(
+        'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_that_belongs_to_user_category')
+    user_id = models.ForeignKey(
+        'user.User', on_delete=models.CASCADE, related_name='user_that_owns_category')
+    category_name = models.ForeignKey(
+        'categoriesCreatedByUsers.CategoriesCreatedByUsers', on_delete=models.CASCADE, related_name='category_names')
