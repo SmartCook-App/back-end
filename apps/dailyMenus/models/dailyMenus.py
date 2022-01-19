@@ -3,7 +3,7 @@ from django.db import models
 
 class DailyMenus(models.Model):
     day = models.DateField()
-    user_id = models.ForeignKey(
+    user = models.ForeignKey(
         'user.User', on_delete=models.CASCADE, related_name='user_id', null=True)
     breakfast = models.ForeignKey(
         'recipe.Recipe', on_delete=models.SET_NULL, related_name='breakfast', null=True)
@@ -11,8 +11,8 @@ class DailyMenus(models.Model):
         'recipe.Recipe', on_delete=models.SET_NULL, related_name='snack', null=True)
     lunch = models.ForeignKey(
         'recipe.Recipe', on_delete=models.SET_NULL, related_name='lunch', null=True)
-    tetime = models.ForeignKey(
-        'recipe.Recipe', on_delete=models.SET_NULL, related_name='tetime', null=True)
+    teatime = models.ForeignKey(
+        'recipe.Recipe', on_delete=models.SET_NULL, related_name='teatime', null=True)
     dinner = models.ForeignKey(
         'recipe.Recipe', on_delete=models.SET_NULL, related_name='dinner', null=True)
 

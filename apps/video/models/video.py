@@ -6,6 +6,7 @@ class Video(models.Model):
 
     recipe_id_video = models.ForeignKey('recipe.Recipe', on_delete=models.CASCADE,
                                         related_name='recipe_id_video')
+    has_video = models.BooleanField(default=False)
 
     def __str__(self):
         return self.path
