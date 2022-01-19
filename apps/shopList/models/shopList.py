@@ -9,8 +9,8 @@ class ShopList(models.Model):
 
 
 class IngredientShopList(models.Model):
-    ingredient_id = models.ForeignKey(
+    ingredient = models.ForeignKey(
         'ingredient.Ingredient', on_delete=models.CASCADE, related_name='ingredient_shop_lists')
-    shopList_id = models.ForeignKey(
+    shopList = models.ForeignKey(
         'shopList.ShopList', on_delete=models.CASCADE, related_name='shop_list_ingredients')
     amount = models.FloatField()
