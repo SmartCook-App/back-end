@@ -297,4 +297,5 @@ data
 # env
 .env.*
 
-SmartCook_API_venv
+# api_venv
+SmartCook_API_venv/
