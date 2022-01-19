@@ -1,0 +1,92 @@
+[
+  {
+    "model": "user.User",
+    "pk": 0,
+    "fields": {
+      "username": "paulaLarenas",
+      "email": "paula@paulaentucocina.cl",
+      "password": "qwertyuiop",
+      "first_name": "Paula",
+      "last_name": "Larenas",
+      "phone_number": "995352535",
+      "birthdate": "1983-12-12",
+      "gender": "female",
+      "is_cooker": "True"
+    }
+  },
+  {
+    "model": "user.User",
+    "pk": 1,
+    "fields": {
+      "username": "virginiaDemaria",
+      "email": "contacto@virginiademaria.cl",
+      "password": "laksdnlidnew",
+      "first_name": "Virginia",
+      "last_name": "Demaria",
+      "phone_number": "9226374568",
+      "birthdate": "1980-11-30",
+      "gender": "female",
+      "is_cooker": "True"
+    }
+  },
+  {
+    "model": "user.User",
+    "pk": 2,
+    "fields": {
+      "username": "florenciaValdivia",
+      "email": "flovaldi98@gmail.com",
+      "password": "zxcvbnm",
+      "first_name": "Florencia",
+      "last_name": "Valdivia",
+      "phone_number": "988043125",
+      "birthdate": "1998-02-18",
+      "gender": "female",
+      "is_cooker": "False"
+    }
+  },
+  {
+    "model": "user.User",
+    "pk": 3,
+    "fields": {
+      "username": "mariaTala",
+      "email": "mjtala@uc.cl",
+      "password": "zxcvbnm",
+      "first_name": "María",
+      "last_name": "Tala",
+      "phone_number": "950120998",
+      "birthdate": "1998-03-24",
+      "gender": "female",
+      "is_cooker": "False"
+    }
+  },
+  {
+    "model": "user.User",
+    "pk": 4,
+    "fields": {
+      "username": "mauroMendoza",
+      "email": "msmendoza@uc.cl",
+      "password": "1234567890",
+      "first_name": "Mauro",
+      "last_name": "Mendoza",
+      "phone_number": "926374568",
+      "birthdate": "1999-03-17",
+      "gender": "masculine",
+      "is_cooker": "False"
+    }
+  },
+  {
+    "model": "user.User",
+    "pk": 5,
+    "fields": {
+      "username": "santiagoMatus",
+      "email": "smatus@uc.cl",
+      "password": "1234567890",
+      "first_name": "Santiago",
+      "last_name": "Matus",
+      "phone_number": "926374568",
+      "birthdate": "1983-03-17",
+      "gender": "masculine",
+      "is_cooker": "False"
+    }
+  }
+]

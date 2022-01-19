@@ -1,0 +1,106 @@
+[
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 0,
+      "fields": {
+        "day": "2020-01-10",
+        "user_id": 2,
+        "breakfast": 18,
+        "snack": 19,
+        "lunch": 20,
+        "teatime": 21,
+        "dinner": 22
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 1,
+      "fields": {
+        "day": "2020-01-11",
+        "user_id": 2,
+        "breakfast": 1,
+        "snack": 14,
+        "lunch": 24,
+        "teatime": 34,
+        "dinner": 46
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 2,
+      "fields": {
+        "day": "2020-01-12",
+        "user_id": 2,
+        "breakfast": 2,
+        "snack": 14,
+        "lunch": 26,
+        "teatime": 36,
+        "dinner": 41
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 3,
+      "fields": {
+        "day": "2020-01-13",
+        "user_id": 2,
+        "breakfast": 11,
+        "snack": 22,
+        "lunch": 33,
+        "teatime": 44,
+        "dinner": 53
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 4,
+      "fields": {
+        "day": "2020-01-14",
+        "user_id": 2,
+        "breakfast": 5,
+        "snack": 56,
+        "lunch": 34,
+        "teatime": 23,
+        "dinner": 26
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 5,
+      "fields": {
+        "day": "2020-01-15",
+        "user_id": 2,
+        "breakfast": 46,
+        "snack": 34,
+        "lunch": 23,
+        "teatime": 34,
+        "dinner": 7
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 6,
+      "fields": {
+        "day": "2020-02-05",
+        "user_id": 2,
+        "breakfast": 5,
+        "snack": 22,
+        "lunch": 19,
+        "teatime": 21,
+        "dinner": 32
+      }
+    },
+    {
+      "model": "dailyMenus.DailyMenus",
+      "pk": 7,
+      "fields": {
+        "day": "2020-02-06",
+        "user_id": 2,
+        "breakfast": 2,
+        "snack": 25,
+        "lunch": 39,
+        "teatime": 43,
+        "dinner": 26
+      }
+    }
+  ]

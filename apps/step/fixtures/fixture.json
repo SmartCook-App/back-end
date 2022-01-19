@@ -1,0 +1,3852 @@
+[
+  {
+    "model": "step.Step",
+    "pk": 0,
+    "fields": {
+      "description": " Derretir mantequilla en microondas en potencia alta por 15 segundos. ",
+      "step_number": 0,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 1,
+    "fields": {
+      "description": " Agregar azúcar, huevos y vainilla. Batir.",
+      "step_number": 1,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 2,
+    "fields": {
+      "description": " Agregar los ingredientes secos (harina, cacao, polvos de hornear y nueces), mezclar hasta obtener una mezcla homogénea.",
+      "step_number": 2,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 3,
+    "fields": {
+      "description": " Forrar un molde apto para el microondas con papel absorbente.",
+      "step_number": 3,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 4,
+    "fields": {
+      "description": " Traspasar la mezcla al molde forrado con papel, cubrir con papel film y cocinar por 6 minutos a 75% de potencia.",
+      "step_number": 4,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 5,
+    "fields": {
+      "description": " Dejar reposar 5 minutos dentro del microondas, desmoldar y dejar enfriar.",
+      "step_number": 5,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 6,
+    "fields": {
+      "description": " Enfriar y cortar.",
+      "step_number": 6,
+      "recipe_id": 0,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 7,
+    "fields": {
+      "description": " Poner todos los ingredientes en una licuadora ",
+      "step_number": 0,
+      "recipe_id": 1,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 8,
+    "fields": {
+      "description": " Servir inmediatamente, sin filtrar.",
+      "step_number": 1,
+      "recipe_id": 1,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 9,
+    "fields": {
+      "description": " En el bowl poner las almendras\njunto al agua y dejar reposar\ndesde la noche anterior.\n",
+      "step_number": 0,
+      "recipe_id": 2,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 10,
+    "fields": {
+      "description": " Eliminar el agua, y traspasar las\nalmendras a licuadora, agregar\nagua y licuar.\n",
+      "step_number": 1,
+      "recipe_id": 2,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 11,
+    "fields": {
+      "description": " Endulzar con azúcar rubia",
+      "step_number": 2,
+      "recipe_id": 2,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 12,
+    "fields": {
+      "description": " Lavar, pelar y picar las verduras\nen cortes irregulares (mientras\nmás pequeños, en menor tiempo\nhabrán dado sabor al caldo y\nestará listo más rápido).\n",
+      "step_number": 0,
+      "recipe_id": 3,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 13,
+    "fields": {
+      "description": " Poner las verduras, hierbas y\nespecias en una olla a partir de\nagua fría.\n",
+      "step_number": 1,
+      "recipe_id": 3,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 14,
+    "fields": {
+      "description": " Cocinar por 30 minutos aprox.\n",
+      "step_number": 2,
+      "recipe_id": 3,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 15,
+    "fields": {
+      "description": " Filtrar y usar el caldo.",
+      "step_number": 3,
+      "recipe_id": 3,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 16,
+    "fields": {
+      "description": " Poner todos los\ningredientes en una\nlicuadora.\n",
+      "step_number": 0,
+      "recipe_id": 4,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 17,
+    "fields": {
+      "description": " Licuar en potencia alta.\n",
+      "step_number": 1,
+      "recipe_id": 4,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 18,
+    "fields": {
+      "description": " Condimentar a gusto.",
+      "step_number": 2,
+      "recipe_id": 4,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 19,
+    "fields": {
+      "description": " En un bowl poner la harina\npreviamente tamizada, formar un\nvolcán y agregar la sal alrededor.\n",
+      "step_number": 0,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 20,
+    "fields": {
+      "description": " En una taza con agua tibia\ndisolver la levadura, el azúcar, la mantequilla y la\nleche en polvo.\n",
+      "step_number": 1,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 21,
+    "fields": {
+      "description": " Luego incorporar la mezcla a la\nharina y comenzar a trabajar con\nlas manos, hasta lograr una masa\nlisa y blanda.\n",
+      "step_number": 2,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 22,
+    "fields": {
+      "description": " Dejar reposar la masa dentro de\nun bowl cubierta de film plástico o\npaño de cocina, para que haga su\nprimer leudado (30 minutos aprox). ",
+      "step_number": 3,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 23,
+    "fields": {
+      "description": " Una vez listo el primer reposo de la masa, formar pequeños\nbollos o bolitas y ponerlos sobre\nuna bandeja de horno enharinada\ncubierta con un paño (20 minutos\naprox). ",
+      "step_number": 4,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 24,
+    "fields": {
+      "description": " Llevar la bandeja a horno\nprecalentado a 180°C (20 minutos\naprox).",
+      "step_number": 5,
+      "recipe_id": 5,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 25,
+    "fields": {
+      "description": " En un bowl poner la harina\npreviamente tamizada, formar un\nvolcán y agregar la sal alrededor.\n",
+      "step_number": 0,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 26,
+    "fields": {
+      "description": " En una taza con agua tibia\ndisolver la levadura, el azúcar, la margarina (o leche vegetal) y la\nleche en polvo.\n",
+      "step_number": 1,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 27,
+    "fields": {
+      "description": " Luego incorporar la mezcla a la\nharina y comenzar a trabajar con\nlas manos, hasta lograr una masa\nlisa y blanda.\n",
+      "step_number": 2,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 28,
+    "fields": {
+      "description": " Dejar reposar la masa dentro de\nun bowl cubierta de un paño de cocina, para que haga su\nprimer leudado (30 minutos aprox).\n",
+      "step_number": 3,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 29,
+    "fields": {
+      "description": " Una vez listo el primer reposo\nde la masa, formar pequeños\nbollos o bolitas y ponerlos sobre\nuna bandeja de horno enharinada\ncubierta con un paño (20 minutos\naprox).\n",
+      "step_number": 4,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 30,
+    "fields": {
+      "description": " Llevar la bandeja a horno\nprecalentado a 180°C (20 minutos\naprox).",
+      "step_number": 5,
+      "recipe_id": 6,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 31,
+    "fields": {
+      "description": " En una licuadora disponer las\npaltas, hojas de cilantro, la leche y\nla crema, licuar hasta formar una\nmezcla homogénea. Agregar caldo\nde verduras, condimentar con sal\ny pimienta.\n",
+      "step_number": 0,
+      "recipe_id": 7,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 32,
+    "fields": {
+      "description": " Servir en un vaso o plato hondo\nmuy frío, decorar con trocitos de\npaltas y aceite de cilantro.",
+      "step_number": 1,
+      "recipe_id": 7,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 33,
+    "fields": {
+      "description": " En una licuadora disponer las\npaltas, hojas de cilantro, la leche y\nla crema, licuar hasta formar una\nmezcla homogénea. Agregar caldo\nde verduras, condimentar con sal\ny pimienta.\n",
+      "step_number": 0,
+      "recipe_id": 8,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 34,
+    "fields": {
+      "description": " Servir en un vaso o plato hondo\nmuy frío, decorar con trocitos de\npaltas y aceite de cilantro.",
+      "step_number": 1,
+      "recipe_id": 8,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 35,
+    "fields": {
+      "description": " Cortar el filete de salmón en\ncubos de 1 cm por lado.\nReservar en frio.\n",
+      "step_number": 0,
+      "recipe_id": 9,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 36,
+    "fields": {
+      "description": " Picar los cebollines en anillos\ndelgados y ají verde sin pepas en\ncubitos pequeños.\n",
+      "step_number": 1,
+      "recipe_id": 9,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 37,
+    "fields": {
+      "description": " Mezclar todo y agregar\nalcaparras, maní, mayonesa y\ncilantro finamente picado.\n",
+      "step_number": 2,
+      "recipe_id": 9,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 38,
+    "fields": {
+      "description": " Condimentar con vino blanco,\njugo de limón, sal, pimienta a\ngusto y un toque de aceite de\noliva.",
+      "step_number": 3,
+      "recipe_id": 9,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 39,
+    "fields": {
+      "description": " Cortar el filete de salmón en\ncubos de 1 cm por lado.\nReservar en frio.\n",
+      "step_number": 0,
+      "recipe_id": 10,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 40,
+    "fields": {
+      "description": " Picar los cebollines en anillos\ndelgados y ají verde sin pepas en\ncubitos pequeños.\n",
+      "step_number": 1,
+      "recipe_id": 10,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 41,
+    "fields": {
+      "description": " Mezclar todo y agregar\nalcaparras, maní, mayonesa y\ncilantro finamente picado.\n",
+      "step_number": 2,
+      "recipe_id": 10,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 42,
+    "fields": {
+      "description": " Condimentar con vino blanco,\njugo de limón, sal, pimienta a\ngusto y un toque de aceite de\noliva.",
+      "step_number": 3,
+      "recipe_id": 10,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 43,
+    "fields": {
+      "description": " Cortar en trozos las betarragas,\nel apio y la cebolla.\n",
+      "step_number": 0,
+      "recipe_id": 11,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 44,
+    "fields": {
+      "description": " Pelar el ajo y el jengibre.\n",
+      "step_number": 1,
+      "recipe_id": 11,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 45,
+    "fields": {
+      "description": " Poner todos los ingredientes\n(crudos) junto con el agua en el\nvaso de la licuadora.\n",
+      "step_number": 2,
+      "recipe_id": 11,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 46,
+    "fields": {
+      "description": " Condimentar con sal y licuar\nhasta obtener una sopa cremosa y\nsin grumos.\n",
+      "step_number": 3,
+      "recipe_id": 11,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 47,
+    "fields": {
+      "description": " Servir fría. Terminar en la\nsuperficie con coco rallado o\nfrutos secos.",
+      "step_number": 4,
+      "recipe_id": 11,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 48,
+    "fields": {
+      "description": " Picar la pechuga de pollo en\npequeños cubos, condimentar\ncon sal.\n",
+      "step_number": 0,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 49,
+    "fields": {
+      "description": " Calentar aceite de oliva en un\nsartén antiadherente. Cocinar\nhasta dorar.\n",
+      "step_number": 1,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 50,
+    "fields": {
+      "description": " En un bowl condimentar\nlos camarones con sal,\ncilantro y cocinar en un sartén\nantiadherente con un poco de\naceite de oliva.\n",
+      "step_number": 2,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 51,
+    "fields": {
+      "description": " Para la salsa muselina: mezclar\nla mayonesa con crema o leche,\nluego agregar jugo de limón y\nmezclar hasta lograr una salsa\nhomogenea.\n",
+      "step_number": 3,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 52,
+    "fields": {
+      "description": " Disponer las lechugas\npreviamente lavadas en un plato,\nagregar los cubos de pollo y\ncamarones.\n",
+      "step_number": 4,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 53,
+    "fields": {
+      "description": " Agregar las salsa muselina y\nservir.",
+      "step_number": 5,
+      "recipe_id": 12,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 54,
+    "fields": {
+      "description": " Picar el tofu en\npequeños cubos, condimentar\ncon sal.\n",
+      "step_number": 0,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 55,
+    "fields": {
+      "description": " Calentar aceite de oliva en un\nsartén antiadherente. Cocinar\nhasta dorar.\n",
+      "step_number": 1,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 56,
+    "fields": {
+      "description": " En un bowl condimentar\nlos champiñones con sal,\ncilantro y cocinar en un sartén\nantiadherente con un poco de\naceite de oliva.\n",
+      "step_number": 2,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 57,
+    "fields": {
+      "description": " Para la salsa muselina: mezclar\nla mayonesa con crema o leche,\nluego agregar jugo de limón y\nmezclar hasta lograr una salsa\nhomogenea. \n",
+      "step_number": 3,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 58,
+    "fields": {
+      "description": " Disponer las lechugas\npreviamente lavadas en un plato,\nagregar los cubos de tofu y\nchampiñones.\n",
+      "step_number": 4,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 59,
+    "fields": {
+      "description": " Agregar las salsa muselina y\nservir.",
+      "step_number": 5,
+      "recipe_id": 13,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 60,
+    "fields": {
+      "description": " Disponer las láminas de salmón\nen la base de un plato principal\n(que entre en el microondas).\n",
+      "step_number": 0,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 61,
+    "fields": {
+      "description": " Esparcir sobre éste, los\nchampiñones y los pimentones.\n",
+      "step_number": 1,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 62,
+    "fields": {
+      "description": " Aparte en un bowl, mezclar el\nhuevo y la crema con la ayuda de\nun batidor.\n",
+      "step_number": 2,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 63,
+    "fields": {
+      "description": " Luego agregar la mezcla sobre\nla cama de salmón y verduras.\n",
+      "step_number": 3,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 64,
+    "fields": {
+      "description": " Cocinar en potencia alta por 4\nminutos.\n",
+      "step_number": 4,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 65,
+    "fields": {
+      "description": " Reposar por 1 minuto más en el\nmicroondas y retirar.\n",
+      "step_number": 5,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 66,
+    "fields": {
+      "description": " Servir inmediatamente.",
+      "step_number": 6,
+      "recipe_id": 14,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 67,
+    "fields": {
+      "description": " En un bowl agregar la salsa de\nsoja, el vinagre y el aceite.\n",
+      "step_number": 0,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 68,
+    "fields": {
+      "description": " Lavar, pelar y picar bien fino el\njengibre. Luego, el ají y el ajo.\n",
+      "step_number": 1,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 69,
+    "fields": {
+      "description": " Poner los vegetales picados en\nel bowl junto con los líquidos.\n",
+      "step_number": 2,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 70,
+    "fields": {
+      "description": " Agregar los trozos de filete\nal jugo de maceración y dejar\nreposar por al menos 2 horas en\nrefrigeración.\n",
+      "step_number": 3,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 71,
+    "fields": {
+      "description": " Filtrar jugo de maceración,\nponer al fuego y reducir hasta\nobtener mayor consistencia y\nreservar.\n",
+      "step_number": 4,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 72,
+    "fields": {
+      "description": " Calentar aceite de oliva en un\nsartén, sellar los filetes por lado y\nlado, dejando punto cocción a la\ninglesa (centro rojo).\n",
+      "step_number": 5,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 73,
+    "fields": {
+      "description": " Cortar en rebanadas de 0,5 cm\ncada trozo de filete, disponer en\nun plato, bañar con el jugo de\nmaceración calentado.\n",
+      "step_number": 6,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 74,
+    "fields": {
+      "description": " Optativo: acompañar con\nensalada.",
+      "step_number": 7,
+      "recipe_id": 15,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 75,
+    "fields": {
+      "description": " Llevar a una olla la coliflor junto\na la cebolla y la manzana. Cubrir\ncon el caldo frío.\n",
+      "step_number": 0,
+      "recipe_id": 16,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 76,
+    "fields": {
+      "description": " Cocinar hasta que la coliflor\neste blanda.\n",
+      "step_number": 1,
+      "recipe_id": 16,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 77,
+    "fields": {
+      "description": " Luego con ayuda de una\nlicuadora, procesar hasta que esté\ncremoso.\n",
+      "step_number": 2,
+      "recipe_id": 16,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 78,
+    "fields": {
+      "description": " Volver la mezcla a la olla,\nagregar leche de almendras y\nreducir hasta obtener un poco\nmás de consistencia.\n",
+      "step_number": 3,
+      "recipe_id": 16,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 79,
+    "fields": {
+      "description": " Condimentar con cúrcuma y sal,\nmezclar y servir.",
+      "step_number": 4,
+      "recipe_id": 16,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 80,
+    "fields": {
+      "description": "Tacos: En un bowl poner la harina y\nsal. Mezclar bien con las manos.\n",
+      "step_number": 0,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 81,
+    "fields": {
+      "description": " Agregar el agua poco a poco e ir\nmezclando hasta formar una masa\nque no se pegue en las manos.\n",
+      "step_number": 1,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 82,
+    "fields": {
+      "description": " Una vez lista la masa, formar\nbolitas de 50 grs. o del tamaño de\nuna mandarina.\n",
+      "step_number": 2,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 83,
+    "fields": {
+      "description": " Para formar los tacos, poner\nuna bolita entre 2 láminas de\nplástico.\n",
+      "step_number": 3,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 84,
+    "fields": {
+      "description": " Luego aplastar con un plato o\nuslero, para obtener una lámina\ndelgada.\n",
+      "step_number": 4,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 85,
+    "fields": {
+      "description": " Traspasar la masa a un sartén\nantiadherente y cocinar lado por\nlado hasta conseguir una masa\nfirme al tacto.\n",
+      "step_number": 5,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 86,
+    "fields": {
+      "description": " Poner en un plato y cubrir con\nun paño.\n",
+      "step_number": 6,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 87,
+    "fields": {
+      "description": " Para Guacamole: Unir todos los ingredientes,\nmezclar bien y condimentar.\n",
+      "step_number": 7,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 88,
+    "fields": {
+      "description": " Poner el guacamole y el resto\nde los ingredientes por separado\nen pocillos.\n",
+      "step_number": 8,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 89,
+    "fields": {
+      "description": " Calentar las tortillas en\nmicroondas por 2 minutos en\npotencia alta, envueltas en el\nmismo paño o en una bolsa\nplástica limpia.\n",
+      "step_number": 9,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 90,
+    "fields": {
+      "description": ". Rellenar a gusto.",
+      "step_number": 10,
+      "recipe_id": 17,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 91,
+    "fields": {
+      "description": " Tacos: En un bowl poner la harina y\nsal. Mezclar bien con las manos.\n",
+      "step_number": 0,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 92,
+    "fields": {
+      "description": " Agregar el agua poco a poco e ir\nmezclando hasta formar una masa\nque no se pegue en las manos.\n",
+      "step_number": 1,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 93,
+    "fields": {
+      "description": " Una vez lista la masa, formar\nbolitas de 50 grs. o del tamaño de\nuna mandarina.\n",
+      "step_number": 2,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 94,
+    "fields": {
+      "description": " Para formar los tacos, poner\nuna bolita entre 2 láminas de\nplástico.\n",
+      "step_number": 3,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 95,
+    "fields": {
+      "description": " Luego aplastar con un plato o\nuslero, para obtener una lámina\ndelgada.\n",
+      "step_number": 4,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 96,
+    "fields": {
+      "description": " Traspasar la masa a un sartén\nantiadherente y cocinar lado por\nlado hasta conseguir una masa\nfirme al tacto.\n",
+      "step_number": 5,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 97,
+    "fields": {
+      "description": " Poner en un plato y cubrir con\nun paño.\n",
+      "step_number": 6,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 98,
+    "fields": {
+      "description": " Para Guacamole: Unir todos los ingredientes,\nmezclar bien y condimentar.\n",
+      "step_number": 7,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 99,
+    "fields": {
+      "description": " Poner el guacamole y el resto\nde los ingredientes por separado\nen pocillos.\n",
+      "step_number": 8,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 100,
+    "fields": {
+      "description": " Calentar las tortillas en\nmicroondas por 2 minutos en\npotencia alta, envueltas en el\nmismo paño o en una bolsa\nplástica limpia.\n",
+      "step_number": 9,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 101,
+    "fields": {
+      "description": " Rellenar a gusto.",
+      "step_number": 10,
+      "recipe_id": 18,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 102,
+    "fields": {
+      "description": " Sudar cebollas y ajo, hasta\nlograr una cebolla transparente.\n",
+      "step_number": 0,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 103,
+    "fields": {
+      "description": " Agregar los porotos negros con\nun poco de su caldo de cocción.\n",
+      "step_number": 1,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 104,
+    "fields": {
+      "description": " Revolver muy bien, cocinar por\nunos 5 minutos a fuego medio.\n",
+      "step_number": 2,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 105,
+    "fields": {
+      "description": " Agregar el arroz previamente\ncocido al dente, revolver muy\nbien y mantener en cocción a\nfuego medio. Debe mantener una\nconsistencia un poco acuosa, pero\nreducirá el líquido, manteniéndolo\nal fuego por unos minutos.\n",
+      "step_number": 3,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 106,
+    "fields": {
+      "description": " Finalmente agregar el pimentón\nun poco sudado, sin perder color\nni crocancia.\n",
+      "step_number": 4,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 107,
+    "fields": {
+      "description": " Retirar del fuego, condimentar\ny agregar el cilantro.\n",
+      "step_number": 5,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 108,
+    "fields": {
+      "description": " Acompañar con tortilla de maíz.",
+      "step_number": 6,
+      "recipe_id": 19,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 109,
+    "fields": {
+      "description": " Hacer el curry, poniendo en una\nolla a calentar la leche de coco\njunto a los dientes de ajo, lima\nkaffir, lemongrass, jengibre y miel\nde palma. Cocinar por 15 minutos.\n",
+      "step_number": 0,
+      "recipe_id": 20,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 110,
+    "fields": {
+      "description": " Poner todo en la licuadora y\nmoler lo más posible, pasar por un\ncolador y reservar.\n",
+      "step_number": 1,
+      "recipe_id": 20,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 111,
+    "fields": {
+      "description": " En otra olla poner aceite de\ncoco y sudar la cebolla. Una vez\nque esté transparente, agregar la\nmezcla del curry y la mantequilla\nde maní. Mezclar todo y dejar\ncocinar por un par de minutos,\no hasta que esté caliente. Luego\nagregar los mariscos, el pescado\ny nuevamente dejar cocinar por\nalgunos minutos.\n",
+      "step_number": 2,
+      "recipe_id": 20,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 112,
+    "fields": {
+      "description": " Servir la sopa con hojas de\ncilantro y cebollín.",
+      "step_number": 3,
+      "recipe_id": 20,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 113,
+    "fields": {
+      "description": " Limpiar y porcionar el filete de\npescado, condimentar con sal y\npimienta.\n",
+      "step_number": 0,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 114,
+    "fields": {
+      "description": " Cortar pan en cubos de 1 cm\npor lado.\n",
+      "step_number": 1,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 115,
+    "fields": {
+      "description": " Aparte, clarificar mantequilla y\nreservar.\n",
+      "step_number": 2,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 116,
+    "fields": {
+      "description": " Picar ciboulette, cilantro y\nperejil finamente, mezclar con la\nmantequilla.\n",
+      "step_number": 3,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 117,
+    "fields": {
+      "description": " Unir esta mezcla con el pan.\nCondimentar.\n",
+      "step_number": 4,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 118,
+    "fields": {
+      "description": " Sellar el pescado en un sartén y\ncubrir con la mezcla anterior.\n",
+      "step_number": 5,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 119,
+    "fields": {
+      "description": " Hornear en horno a 220oC por\n5 minutos, ubicando el pescado\nen la parte superior del horno.\nSalsa:\n",
+      "step_number": 6,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 120,
+    "fields": {
+      "description": " Reducir el vino con el azúcar,\nhasta evaporar el alcohol y\nobtener consistencia. Ligar con\nmaicena si es necesario.\n",
+      "step_number": 7,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 121,
+    "fields": {
+      "description": " Pelar piñones, reservar. Limpiar\nhojas de espinacas y retirar los\ntallos.\n",
+      "step_number": 8,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 122,
+    "fields": {
+      "description": " A la minuta, saltear en aceite\nde oliva la espinaca junto con los\npiñones.\n",
+      "step_number": 9,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 123,
+    "fields": {
+      "description": " Condimentar con sal.\n",
+      "step_number": 10,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 124,
+    "fields": {
+      "description": " Poner el salteado en la base\nde un plato, sobre ésta poner el\npescado y terminar con la salsa de\nvino tinto alrededor.",
+      "step_number": 11,
+      "recipe_id": 21,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 125,
+    "fields": {
+      "description": " En una fuente apta para horno,\nponer un porción pequeña de\naceite.\n",
+      "step_number": 0,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 126,
+    "fields": {
+      "description": " Luego cortar el filete en 4\nporciones, ponerlo en la fuente y\ncondimentar con sal.\n",
+      "step_number": 1,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 127,
+    "fields": {
+      "description": " Llevar a horno caliente 180°C\npor 8 a 10 minutos.\n",
+      "step_number": 2,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 128,
+    "fields": {
+      "description": " Poner el yogurt en un bowl y\ntrabajar con una cuchara hasta\ndejar homogéneo, condimentar\ncon sal, reservar.\n",
+      "step_number": 3,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 129,
+    "fields": {
+      "description": " En un plato agregar una porción\nde hojas verdes y condimentar\ncon oliva, sal y pimienta.\n",
+      "step_number": 4,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 130,
+    "fields": {
+      "description": " Luego agregar el salmón a las\nhojas verdes y luego yogurt.\n",
+      "step_number": 5,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 131,
+    "fields": {
+      "description": " Encima disponer frutos secos y\ncrutones.",
+      "step_number": 6,
+      "recipe_id": 22,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 132,
+    "fields": {
+      "description": " Por porciones: Disponer un trozo de papel\naluminio ó papel mantequilla en\nun plato.\n",
+      "step_number": 0,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 133,
+    "fields": {
+      "description": " Poner sobre el papel un trocito\nde mantequilla o aceite de oliva.\n",
+      "step_number": 1,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 134,
+    "fields": {
+      "description": " Agregar una porción de\nde pescado previamente\ncondimentada.\n",
+      "step_number": 2,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 135,
+    "fields": {
+      "description": " Incorporar el resto de los\ningredientes, 1 cucharada de\ncrema y vino blanco.\n",
+      "step_number": 3,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 136,
+    "fields": {
+      "description": " Rectificar condimentos.\n",
+      "step_number": 4,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 137,
+    "fields": {
+      "description": " Cerrar el papel.\n",
+      "step_number": 5,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 138,
+    "fields": {
+      "description": " Repetir la operación con el\nresto del pescado.\n",
+      "step_number": 6,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 139,
+    "fields": {
+      "description": " Cocinar en horno pre-calentado\n(180oC) por 10 minutos.\n",
+      "step_number": 7,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 140,
+    "fields": {
+      "description": " Servir.",
+      "step_number": 8,
+      "recipe_id": 23,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 141,
+    "fields": {
+      "description": " Por porciones: Disponer un trozo de papel\naluminio ó papel mantequilla en\nun plato.\n",
+      "step_number": 0,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 142,
+    "fields": {
+      "description": " Poner sobre el papel un trocito\nde mantequilla o aceite de oliva.\n",
+      "step_number": 1,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 143,
+    "fields": {
+      "description": " Agregar una porción de\nde pescado previamente\ncondimentada.\n",
+      "step_number": 2,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 144,
+    "fields": {
+      "description": " Incorporar el resto de los\ningredientes y vino blanco.\n",
+      "step_number": 3,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 145,
+    "fields": {
+      "description": " Rectificar condimentos.\n",
+      "step_number": 4,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 146,
+    "fields": {
+      "description": " Cerrar el papel.\n",
+      "step_number": 5,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 147,
+    "fields": {
+      "description": " Repetir la operación con el\nresto del pescado.\n",
+      "step_number": 6,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 148,
+    "fields": {
+      "description": " Cocinar en horno pre-calentado\n(180oC) por 10 minutos.\n",
+      "step_number": 7,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 149,
+    "fields": {
+      "description": " Servir.",
+      "step_number": 8,
+      "recipe_id": 24,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 150,
+    "fields": {
+      "description": " Base de Pizza: Hervir la leche con la\nmantequilla, sal y pimienta.\n",
+      "step_number": 0,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 151,
+    "fields": {
+      "description": " Agregar la polenta en\nforma de lluvia, revolviendo\nconstantemente. Luego la mezcla\ncomenzará a despegarse de la olla.\n",
+      "step_number": 1,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 152,
+    "fields": {
+      "description": " Disminuir el fuego y agregar el\nqueso crema, revolver hasta que\nse disuelva.\nTraspasar la mezcla a una lata\nde horno previamente aceitada,\ndando forma circular o cuadrada, y\ndejar enfriar. Una vez fría agregar\nlos ingredientes del relleno.\n",
+      "step_number": 2,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 153,
+    "fields": {
+      "description": " Relleno: Lavar los vegetales.\n",
+      "step_number": 3,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 154,
+    "fields": {
+      "description": " Rallar el queso\n",
+      "step_number": 4,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 155,
+    "fields": {
+      "description": " Cortar tomates en octavos.\n",
+      "step_number": 5,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 156,
+    "fields": {
+      "description": " Cortar la berenjena en\nrebanadas y saltear en muy poco\naceite de oliva. Reservar.\n",
+      "step_number": 6,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 157,
+    "fields": {
+      "description": " Llevar a horno fuerte la\nBase con el queso, tomate y\nberenjenas.\n",
+      "step_number": 7,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 158,
+    "fields": {
+      "description": " Terminar con las hojas de\nrúcula, una vez fuera del horno.",
+      "step_number": 8,
+      "recipe_id": 25,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 159,
+    "fields": {
+      "description": " Disponer las papas lavadas y el\nzapallo en una budinera sobre sal\nde mar. Hornear a 180°C (horno\ncaliente) por 40 minutos.\n",
+      "step_number": 0,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 160,
+    "fields": {
+      "description": " Cuando estén blandas, pelar y\nmoler disparejo.\n",
+      "step_number": 1,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 161,
+    "fields": {
+      "description": " Hidratar charqui en agua,\ndeshilachar y saltear en aceite de\noliva.\n",
+      "step_number": 2,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 162,
+    "fields": {
+      "description": " Aparte, en aceite de oliva\ncaliente sudar cebolla más el ajo\ny el pimentón. Condimentar con\ncomino, merquén, ají de color,\norégano. En una olla con agua\ncaliente blanquear los porotos.\n",
+      "step_number": 3,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 163,
+    "fields": {
+      "description": " Cocer el choclo a partir de agua\nfría, enfriar y desgranar.\n",
+      "step_number": 4,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 164,
+    "fields": {
+      "description": " Saltear las verduras en aceite\nde oliva y condimentar con sal y\npimienta.\n",
+      "step_number": 5,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 165,
+    "fields": {
+      "description": " Al puré de papas con zapallo,\nagregar el sofrito de cebollas, ajo y\npimentón, revolver y terminar con\nlas verduras recién salteadas.\n",
+      "step_number": 6,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 166,
+    "fields": {
+      "description": " Optativo: agregar color (aceite de oliva y ají de color) para\nterminar.",
+      "step_number": 7,
+      "recipe_id": 26,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 167,
+    "fields": {
+      "description": " Disponer las papas lavadas y el\nzapallo en una budinera sobre sal\nde mar. Hornear a 180°C (horno\ncaliente) por 40 minutos.\n",
+      "step_number": 0,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 168,
+    "fields": {
+      "description": " Cuando estén blandas, pelar y\nmoler disparejo.\n",
+      "step_number": 1,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 169,
+    "fields": {
+      "description": " Cocinar los champiñones, ostras u otro y saltear en aceite de\noliva.\n",
+      "step_number": 2,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 170,
+    "fields": {
+      "description": " Aparte, en aceite de oliva\ncaliente sudar cebolla más el ajo\ny el pimentón. Condimentar con\ncomino, merquén, ají de color,\norégano. En una olla con agua\ncaliente blanquear los porotos.\n",
+      "step_number": 3,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 171,
+    "fields": {
+      "description": " Cocer el choclo a partir de agua\nfría, enfriar y desgranar.\n",
+      "step_number": 4,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 172,
+    "fields": {
+      "description": " Saltear las verduras en aceite\nde oliva y condimentar con sal y\npimienta.\n",
+      "step_number": 5,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 173,
+    "fields": {
+      "description": " Al puré de papas con zapallo,\nagregar el sofrito de cebollas, ajo y\npimentón, revolver y terminar con\nlas verduras recién salteadas.\n",
+      "step_number": 6,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 174,
+    "fields": {
+      "description": " Optativo: agregar color (aceite de oliva y ají de color) para\nterminar.",
+      "step_number": 7,
+      "recipe_id": 27,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 175,
+    "fields": {
+      "description": " “Debe hacerse el día anterior”\n Precalentar horno (180°C).\n",
+      "step_number": 0,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 176,
+    "fields": {
+      "description": " Disponer la pechuga de pavo en\nun Pyrex o budinera.\n",
+      "step_number": 1,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 177,
+    "fields": {
+      "description": " Rociar salsa de soya sobre la\npiel y poner cubos de mantequilla\nen forma desordenada.\n",
+      "step_number": 2,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 178,
+    "fields": {
+      "description": " Tapar con aluminio casi toda la\ncocción, al final retirar para que se\ndore la piel.\n",
+      "step_number": 3,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 179,
+    "fields": {
+      "description": " Hornear 30 minutos por kilo de\ncarne a 180°C.\n",
+      "step_number": 4,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 180,
+    "fields": {
+      "description": " Para asegurarse que esté Ok, al\nfinal del tiempo señalado, enterrar\nuna brocheta de bambú:\na) Si el jugo sale rojo: está cruda\nb) Si sale más transparente, está\nlista.\nc) Si no sale jugo, se recoció!\n",
+      "step_number": 5,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 181,
+    "fields": {
+      "description": " Una vez lista sacar del horno,\nenfriar, refrigerar tapada con film\nplástico en el mismo recipiente en\nque se cocinó.\n",
+      "step_number": 6,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 182,
+    "fields": {
+      "description": " Al día siguiente, deshuesar,\ncortar en rebanadas y poner\nen budinera o Pyrex limpio,\nordenadas y bañar con el jugo de\ncocción.\n",
+      "step_number": 7,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 183,
+    "fields": {
+      "description": " Tapar con film y calentar en\nmicroondas o tapar con aluminio y\ncalentar en horno convencional.",
+      "step_number": 8,
+      "recipe_id": 28,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 184,
+    "fields": {
+      "description": " Saltee en una olla con aceite\nlas presas sazonadas con sal y\nenharinadas, añada la cebolla\nhasta que el pollo esté dorado.\n",
+      "step_number": 0,
+      "recipe_id": 29,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 185,
+    "fields": {
+      "description": " Agregar coñac, luego el vino\nblanco.\n",
+      "step_number": 1,
+      "recipe_id": 29,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 186,
+    "fields": {
+      "description": " Condimentar con pimienta.\nCocinar a fuego suave, en olla\ntapada hasta que el pollo esté\ntierno (30-40 minutos). El alcohol\nse habrá evaporado. Al final\nagregar sal.\n",
+      "step_number": 2,
+      "recipe_id": 29,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 187,
+    "fields": {
+      "description": " Servir presas bañadas con un\npoco de jugo y acompañamiento\na gusto. El resto del jugo servir en\ntacitas individuales.",
+      "step_number": 3,
+      "recipe_id": 29,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 188,
+    "fields": {
+      "description": " Pino: Preparar  el pino en un sartén. Calentar  1 cucharada de mantequilla con 1 cucharada de aceite a fuego medio  y freír  la cebolla hasta que esté transparente. ",
+      "step_number": 0,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 189,
+    "fields": {
+      "description": "  Agregar  el ají color, comino, orégano, sal  y  pimienta; mezclar bien, retirar  del fuego  y  reservar. ",
+      "step_number": 1,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 190,
+    "fields": {
+      "description": "  En otro sartén calentar  el resto de mantequilla  y  aceite, saltear  la carne  sin  dejar  que  se  dore.  Añadir la cebolla reservada  y  revolver. Disolver  la harina en el caldo y  verter  a la mezcla de carne. Cocinar  el pino a fuego bajo, revolviendo hasta que se espese ligeramente; debe resultar  jugoso. Retirar  del fuego, corregir  la sazón y  refrigerar  durante la noche. ",
+      "step_number": 2,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 191,
+    "fields": {
+      "description": "Pasta de choclos: Preparar  la pasta de choclo. En la procesadora hacer  un puré con los granos de choclo, de a pocas cantidades, con la leche y  los huevos. Para obtener  una pasta más suave, pasar  la mitad de la mezcla por  un colador  para eliminar  un poco el hollejo;  volver a mezclarla con la pasta en el bol. Incorporar  a la mezcla la mantequilla derretida; sazonar  y reservar. ",
+      "step_number": 3,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 192,
+    "fields": {
+      "description": "  Precalentar  el horno a temperatura alta (180°C). ",
+      "step_number": 4,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 193,
+    "fields": {
+      "description": "  Armado del pastel. En una fuente de greda colocar  la mitad de la pasta de choclo reservada. Hornear  10 minutos, sólo para formar  una capa de sellante para el pino de carne. ",
+      "step_number": 5,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 194,
+    "fields": {
+      "description": "  Retirar  la fuente del horno  y agregar  sobre la pasta de choclo horneada el pino de carne, trozos de pollo, aceitunas, pasas y  huevos duros.  Verter  encima el resto de pasta de choclo cruda reservada  y  espolvorear  la superficie con azúcar  granulada si se quiere dulce. ",
+      "step_number": 6,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 195,
+    "fields": {
+      "description": "  Hornear  el pastel hasta que el choclo esté cocido  y  la superficie dorada, 15-20 minutos. Servir muy caliente.",
+      "step_number": 7,
+      "recipe_id": 30,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 196,
+    "fields": {
+      "description": " Navegado: En una olla poner  la cerveza negra con el azúcar, la canela, clavo de olor, zeste de naranjas y  nuez moscada, hervir  hasta que se evapore el alcohol, por  30 minutos aprox. ",
+      "step_number": 0,
+      "recipe_id": 31,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 197,
+    "fields": {
+      "description": "  Desgrasar  lomo de cerdo en caso de ser  necesario, condimentar  con sal. ",
+      "step_number": 1,
+      "recipe_id": 31,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 198,
+    "fields": {
+      "description": "  En un sartén calentar  aceite de oliva, sellar, dorar  bien el cerdo  y espolvorear  harina. ",
+      "step_number": 2,
+      "recipe_id": 31,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 199,
+    "fields": {
+      "description": "  Luego traspasarlo al navegado  y cocinar  por  30 minutos más.",
+      "step_number": 3,
+      "recipe_id": 31,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 200,
+    "fields": {
+      "description": "  Lavar  y  cortar  el zapallo italiano en láminas a lo largo de 2,5 mm de grosor. ",
+      "step_number": 0,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 201,
+    "fields": {
+      "description": "  Macerar  las láminas en un bowl con jugo de limón, pimienta, comino, sal, ciboulette  y  perejil. ",
+      "step_number": 1,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 202,
+    "fields": {
+      "description": "  Tapar  con papel film  y  dejar reposar  por  un par  de horas. ",
+      "step_number": 2,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 203,
+    "fields": {
+      "description": "  Poner  la harina de garbanzos en un plato, junto a los polvos de hornear  y  mezclar. Luego agregar  agua fría  y  revolver  hasta conseguir  una pasta homogénea. ",
+      "step_number": 3,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 204,
+    "fields": {
+      "description": "  Envolver  las láminas de zapallo italiano en una hoja de alga nori y  pasar  por  el batido de harina de garbanzos. ",
+      "step_number": 4,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 205,
+    "fields": {
+      "description": "  Luego freír  en abundante aceite caliente hasta que este dorado, traspasar  a una fuente con papel absorbente para eliminar  el exceso de aceite.",
+      "step_number": 5,
+      "recipe_id": 32,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 206,
+    "fields": {
+      "description": " Limpiar la carne de exceso de grasa.",
+      "step_number": 0,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 207,
+    "fields": {
+      "description": " Sellar en sartén o plancha con aceite de oliva.",
+      "step_number": 1,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 208,
+    "fields": {
+      "description": " Cubrir con vino tinto y caldo. ",
+      "step_number": 2,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 209,
+    "fields": {
+      "description": " Cocinar en olla a presión por 1 hora, o en olla convencional por el doble de tiempo.",
+      "step_number": 3,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 210,
+    "fields": {
+      "description": " Luego traspasar la plateada con parte de su jugo de cocción a una budinera.",
+      "step_number": 4,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 211,
+    "fields": {
+      "description": " Introducir en horno caliente (180ºC).",
+      "step_number": 5,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 212,
+    "fields": {
+      "description": " Dorar ligeramente.",
+      "step_number": 6,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 213,
+    "fields": {
+      "description": " Servir bañando con el jugo de cocción.",
+      "step_number": 7,
+      "recipe_id": 33,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 214,
+    "fields": {
+      "description": "  Para la mayonesa  vegetariana, poner  en una procesadora todos los ingredientes  y  licuar  hasta que quede homogéneo, condimentar con sal  y  reservar. ",
+      "step_number": 0,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 215,
+    "fields": {
+      "description": "  Remojar  las lentejas desde el día anterior  en abundante agua. ",
+      "step_number": 1,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 216,
+    "fields": {
+      "description": "  Cocinar  las lentejas en caldo o agua por  20 minutos. ",
+      "step_number": 2,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 217,
+    "fields": {
+      "description": "  Licuar  en una juguera ¾ parte de las lentejas cocidas  y  luego mezclar  con las restantes en un bowl. ",
+      "step_number": 3,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 218,
+    "fields": {
+      "description": "  En un sartén poner  aceite de oliva, sudar  la cebolla con la zanahoria  y  orégano. ",
+      "step_number": 4,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 219,
+    "fields": {
+      "description": "  Unir  el sofrito con las lentejas, agregar  harina de garbanzos y  mezclar  todo muy  bien. Condimentar  con un poco más de sal y  pimienta. ",
+      "step_number": 5,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 220,
+    "fields": {
+      "description": "  En un sartén antiadherente agregar  una cucharada de aceite de oliva  y  calentar. ",
+      "step_number": 6,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 221,
+    "fields": {
+      "description": "  Agregar  una cucharada grande de la mezcla, aplastar  y  dar  forma con ayuda de la cuchara, cocinar por  3 minutos por  lado  y  servir.",
+      "step_number": 7,
+      "recipe_id": 34,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 222,
+    "fields": {
+      "description": "  Remojar  los garbanzos en abundante agua desde la noche anterior. ",
+      "step_number": 0,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 223,
+    "fields": {
+      "description": "  Cocinar  a partir  de agua fría por 30 minutos o hasta que estén al dente. Retirar  del agua. ",
+      "step_number": 1,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 224,
+    "fields": {
+      "description": "  Por  otro lado, lavar  la quínoa sobre un colador  bajo el chorro de agua fría (la idea es lavar  hasta que el agua salga limpia para sacar la saponina). ",
+      "step_number": 2,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 225,
+    "fields": {
+      "description": "  Traspasar  los garbanzos a una olla junto a la quínoa lavada, agregar  caldo  y  cocinar  hasta que la quínoa esté blanda. ",
+      "step_number": 3,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 226,
+    "fields": {
+      "description": "  En paralelo, preparar  un sofrito en un sartén con aceite de oliva, cebolla, zanahoria, ajo  y  pimentón. ",
+      "step_number": 4,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 227,
+    "fields": {
+      "description": "  Una  vez listo el sofrito incorporar  a la quinoa con los garbanzos. Mezclar, condimentar y  terminar  con perejil.",
+      "step_number": 5,
+      "recipe_id": 35,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 228,
+    "fields": {
+      "description": "  Cocinar  el mote a partir  de agua fría por  30 minutos aprox. ",
+      "step_number": 0,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 229,
+    "fields": {
+      "description": "  Mientras, en un sartén con aceite de oliva, saltear  por  unos 3 minutos el cebollín, el pimentón y  champiñones. Condimentar  con sal y  pimienta. ",
+      "step_number": 1,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 230,
+    "fields": {
+      "description": "  Agregar  las hojas de espinaca, cocinar  por  un minuto más  y reservar. ",
+      "step_number": 2,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 231,
+    "fields": {
+      "description": " Para el royal: En un bowl batir  ligeramente los huevos, agregar  la leche, mezclar  bien  y  condimentar  con sal  y  pimenta. Reservar. ",
+      "step_number": 3,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 232,
+    "fields": {
+      "description": " Armado:  mezclar  el mote con el sofrito  y  las hojas de espinaca. ",
+      "step_number": 4,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 233,
+    "fields": {
+      "description": "  Luego traspasar  la mezcla a una fuente apta para horno levemente enaceitada  y  cubrir  con la mezcla royal (huevos  y  leche). ",
+      "step_number": 5,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 234,
+    "fields": {
+      "description": "  Llevar  a horno a 180°C por  45 minutos aprox.",
+      "step_number": 6,
+      "recipe_id": 36,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 235,
+    "fields": {
+      "description": "  Sudar  en aceite la cebolla  y ajos. Este procedimiento se hace a menor  temperatura, para que la  verdura entregue sabor  y  no se quemen. ",
+      "step_number": 0,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 236,
+    "fields": {
+      "description": "  Una  vez listo el sofrito, agregar la carne de jaiba, condimentar  con ají de color, sal, un poco de caldo y  vino blanco. Dejar  cocinando. ",
+      "step_number": 1,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 237,
+    "fields": {
+      "description": "  Mientras, remojar  en el bowl el pan sin bordes junto a la leche evaporada. ",
+      "step_number": 2,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 238,
+    "fields": {
+      "description": "  Trabajar  el pan remojado con un tenedor  hasta conseguir  una mezcla homogénea. Unir  con la mezcla anterior  y  agregar  el huevo. ",
+      "step_number": 3,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 239,
+    "fields": {
+      "description": "  Condimentar  con sal  y  pimienta. ",
+      "step_number": 4,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 240,
+    "fields": {
+      "description": "  Verter  en una fuente previamente enmantequillada. Espolvorear  el resto del queso parmesano rallado. ",
+      "step_number": 5,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 241,
+    "fields": {
+      "description": "  Precalentar  el horno. Hornear 15 minutos aprox. a 200ºC en la parte superior  del horno, para que quede gratinado. ",
+      "step_number": 6,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 242,
+    "fields": {
+      "description": "  Servir  decorando con pinzas de jaiba.",
+      "step_number": 7,
+      "recipe_id": 37,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 243,
+    "fields": {
+      "description": " Si consigues jaibas u otro crustáceo fresco, retirar toda la carne, para ser usada en el pastel.",
+      "step_number": 0,
+      "recipe_id": 38,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 244,
+    "fields": {
+      "description": " Con los caparazones que aún tengan restos de carne, preparar un caldo tipo Bisque.",
+      "step_number": 1,
+      "recipe_id": 38,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 245,
+    "fields": {
+      "description": " En una olla saltear los caparazones con aceite de oliva, agregar la cebolla picada en pluma. Dorar, agregar el vino blanco, agua, ají de color y dejar hervir por 30 minutos aprox.",
+      "step_number": 2,
+      "recipe_id": 38,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 246,
+    "fields": {
+      "description": "  Para el merengue, batir  con ayuda de una batidora eléctrica las claras de huevo junto a una pizca de sal a potencia media por 1 minuto. ",
+      "step_number": 0,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 247,
+    "fields": {
+      "description": "  Luego subir  la potencia a alta  y seguir  batiendo hasta que estén firmes. ",
+      "step_number": 1,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 248,
+    "fields": {
+      "description": " En paralelo al batido de las claras, preparar  un almíbar de pelo: para ésto, en un sartén disponer  1 taza de azúcar  junto a ¼ taza de agua  y  cocinar  a fuego medio. Estará listo una  vez que comiencen a formarse muchas burbujas gruesas. Retirar  del fuego  y  agregar  en forma de hilo a las claras sin dejar  de batir. ",
+      "step_number": 2,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 249,
+    "fields": {
+      "description": " El merengue estará listo una  vez que el bowl donde se preparó esté t ibio o hasta que el merengue esté firme  y  brillante. ",
+      "step_number": 3,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 250,
+    "fields": {
+      "description": " Para el huevo moll: En un bowl, mezclar  las  yemas y  3 cucharadas de agua fría, hasta que hayan tomado un color pálido. En paralelo, mientras se baten las  yemas, preparar un segundo almíbar  igual al del merengue e incorporar  las  yemas poco a poco sin dejar  de batir. ",
+      "step_number": 4,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 251,
+    "fields": {
+      "description": "  Aparte moler  las galletas. ",
+      "step_number": 5,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 252,
+    "fields": {
+      "description": "  Mezclar  el huevo moll con ¾ partes del merengue, luego agregar  las galletas  y  el coco  y terminar  de mezclar  suavemente. ",
+      "step_number": 6,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 253,
+    "fields": {
+      "description": "  Traspasar  a una fuente y  decorar  con el merengue reservado  y  coco rallado.",
+      "step_number": 7,
+      "recipe_id": 39,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 254,
+    "fields": {
+      "description": " En una procesadora poner las nueces y almendras con las pasas de uva o dátiles, incorporar el cacao, aceite de coco y un toque del endulzante elegido.",
+      "step_number": 0,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 255,
+    "fields": {
+      "description": " Procesar hasta formar una masa levemente pegajosa. ",
+      "step_number": 1,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 256,
+    "fields": {
+      "description": " Luego poner en un molde previamente aceitado, presionar la mezcla con la mano o cuchara y llevar al refrigerador por un par de horas. Luego cortar en porciones. ",
+      "step_number": 2,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 257,
+    "fields": {
+      "description": " Salsa de frutillas: Lavar y picar las frutillas.",
+      "step_number": 3,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 258,
+    "fields": {
+      "description": " Agregar azúcar, agua y chia.",
+      "step_number": 4,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 259,
+    "fields": {
+      "description": " Dejar macerando por una hora.",
+      "step_number": 5,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 260,
+    "fields": {
+      "description": " Luego licuar. ",
+      "step_number": 6,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 261,
+    "fields": {
+      "description": " Helado de plátano y especias: Sacar los plátanos del freezer, pelarlos. ",
+      "step_number": 7,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 262,
+    "fields": {
+      "description": " Ponerlos en una procesadora con la canela en polvo y trabajar hasta que tome consistencia de helado.",
+      "step_number": 8,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 263,
+    "fields": {
+      "description": " Servir cada trozo de brownie con una bolita de helado de plátano y terminar con salsa de frutillas u otros berries.",
+      "step_number": 9,
+      "recipe_id": 40,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 264,
+    "fields": {
+      "description": " Masa: Mezclar  la mantequilla con el azúcar  hasta que forme una pasta. ",
+      "step_number": 0,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 265,
+    "fields": {
+      "description": "  Agregar  los huevos e ingredientes secos  y  dejar  una pasta untable. ",
+      "step_number": 1,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 266,
+    "fields": {
+      "description": "  Espatular  la mezcla sobre las láminas de papel previamente enmantequilladas y  enharinadas. La mezcla debe quedar  lisa sobre el papel  y  muy  delgada. ",
+      "step_number": 2,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 267,
+    "fields": {
+      "description": "  Precalentar  el horno a 180°C y  cocinar  por  3 minutos aprox. o hasta que tomen un poco de color: cuidar  la cocción porque es muy rápida. Dejar  enfriar  y  retirar el papel con mucho cuidado. ",
+      "step_number": 3,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 268,
+    "fields": {
+      "description": " Fudge: Colocar  el cacao en una olla  y luego agregar  la leche condensada poco a poco para disolver  bien el cacao  y  que no queden grumos. ",
+      "step_number": 4,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 269,
+    "fields": {
+      "description": "  Agregar  la leche evaporada  y revolver  bien. ",
+      "step_number": 5,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 270,
+    "fields": {
+      "description": "  Llevar  a fuego fuerte hasta que llegue a hervir. ",
+      "step_number": 6,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 271,
+    "fields": {
+      "description": "  Bajar  el fuego  y  cocinar  hasta que se  vea el fondo de la olla, debe quedar  con la textura de manjar. Enfriar  y  reservar. ",
+      "step_number": 7,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 272,
+    "fields": {
+      "description": " Crema chantilly  de chocolate: Batir  la crema con cacao. ",
+      "step_number": 8,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 273,
+    "fields": {
+      "description": "  Cuando comience a tomar consistencia agregar  el azúcar y  seguir  batiendo hasta punto chantilly, reservar  en el refrigerador. ",
+      "step_number": 9,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 274,
+    "fields": {
+      "description": " Crema chantilly normal:   Batir  la crema a potencia alta cuando comience a tomar  consistencia agregar  el azúcar  y  seguir  batiendo hasta punto chantilly, reservar  en el refrigerador. ",
+      "step_number": 10,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 275,
+    "fields": {
+      "description": " Armado de la torta: Colocar  una capa de fudge sobre una galleta  y  espatular  hasta dejar  lisa. Continuar  así con cada galleta intercalando una sobre otra con los diferentes rellenos hasta formar  una torta. ",
+      "step_number": 11,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 276,
+    "fields": {
+      "description": "  Decorar  con rosetones de crema chantilly  y  espolvorear canela. ",
+      "step_number": 12,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 277,
+    "fields": {
+      "description": "  Servir  congelada en porciones delgadas.",
+      "step_number": 13,
+      "recipe_id": 41,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 278,
+    "fields": {
+      "description": "  Poner  las claras en un bowl junto a la pizca de sal  y  batir  hasta punto de nieve. ",
+      "step_number": 0,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 279,
+    "fields": {
+      "description": "  Luego agregar  el azúcar granulada, seguir  batiendo, una vez que esté firme el merengue, incorporar  el azúcar  flor  de forma envolvente. Idealmente hacer  este paso con un batidor  de mano para que no queden grumos. ",
+      "step_number": 1,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 280,
+    "fields": {
+      "description": "  Manguear  circunferencias de 20 o 25 centimetros, sobre una lámina de silicona o papel mantequilla.  ",
+      "step_number": 2,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 281,
+    "fields": {
+      "description": "  Hornear  por  1 hora a 100°C. Dejar  enfriar. ",
+      "step_number": 3,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 282,
+    "fields": {
+      "description": "  Batir  la crema fría a punto chantilly  y  luego incorporar  la pulpa de lúcuma. ",
+      "step_number": 4,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 283,
+    "fields": {
+      "description": "  Armar  la torta, montar  un disco de merengue sobre un plato o posa torta  y  cubrir  con crema de lúcuma. Repetir  esta operación con todos los discos montando uno sobre otro. Para terminar, cubrir  con crema  y  trozos de merengue por  los costados. ",
+      "step_number": 5,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 284,
+    "fields": {
+      "description": "  Congelar  por  al menos 8 horas.",
+      "step_number": 6,
+      "recipe_id": 42,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 285,
+    "fields": {
+      "description": " Bizcochuelo:  Batir  los huevos con el azúcar  a espumoso en baño maría caliente. Retirar  del baño maría  y  seguir batiendo hasta enfriar  sobre el mesón. Incorporar  la harina tamizada.  Vaciar  la mezcla en papel mantequilla previamente enmantequillado y  enharinado y hornear  por  12 a 15 minutos a 200ºC. ",
+      "step_number": 0,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 286,
+    "fields": {
+      "description": "  Retirar  del horno  y  dar vuelta sobre papel mantequilla espolvoreado con azúcar granulada  y  enfriar. ",
+      "step_number": 1,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 287,
+    "fields": {
+      "description": " Remojo:  unir  la leche condensada con la leche evaporada, crema fresca  y  agua. ",
+      "step_number": 2,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 288,
+    "fields": {
+      "description": "  Cortar  el bizcocho en tres porciones. Poner  una porción en una fuente o pocillo, remojar  en abundancia, repetir  la operación  con las otras 2 porciones de bizcochuelo.  ",
+      "step_number": 3,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 289,
+    "fields": {
+      "description": "  Una  vez listo esto, preparar  el merengue: batir  las claras a nieve a temperatura ambiente con una pizca de sal. Cuando estén firmes, agregar  el azúcar  granulada de a poco  y  seguir  batiendo.  Terminar con azúcar  flor, agregada también en forma de lluvia, sin dejar  de batir. ",
+      "step_number": 4,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 290,
+    "fields": {
+      "description": "  Poner  el merengue en la superficie del postre  y  gratinar con soplete o en horno a 200ºC por  2 minutos.",
+      "step_number": 5,
+      "recipe_id": 43,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 291,
+    "fields": {
+      "description": "  Cernir  harina, unir  con polvos de hornear  y  pizca de sal. ",
+      "step_number": 0,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 292,
+    "fields": {
+      "description": "  Trabajar  con la mantequilla a temperatura ambiente, agregar  las yemas, la leche  y  el pisco. ",
+      "step_number": 1,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 293,
+    "fields": {
+      "description": "  Agregar  los ingredientes secos. ",
+      "step_number": 2,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 294,
+    "fields": {
+      "description": "  Trabajar  hasta formar  una masa homogénea. Dejar  reposar durante 10 minutos en el refrigerador. ",
+      "step_number": 3,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 295,
+    "fields": {
+      "description": "  Estirar  con uslero, pinchar la masa con tenedor  y  cortar circunferencias de 25 cms aprox. ",
+      "step_number": 4,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 296,
+    "fields": {
+      "description": "  Disponer  sobre lata de horno enmantequillada. ",
+      "step_number": 5,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 297,
+    "fields": {
+      "description": "  Hornear  a 180°C por  10 a 15 minutos. Dejar  enfriar. ",
+      "step_number": 6,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 298,
+    "fields": {
+      "description": " Relleno: Poner  la chancaca en una olla al fuego con agua hasta la mitad hasta que se disuelva  y  se reduzca ligeramente. ",
+      "step_number": 7,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 299,
+    "fields": {
+      "description": " Aparte disolver  el almidón de maíz. ",
+      "step_number": 8,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 300,
+    "fields": {
+      "description": "  Revolver  y  mantener  en el fuego hasta que tome consistencia, luego retirar  y  dejar enfriar. ",
+      "step_number": 9,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 301,
+    "fields": {
+      "description": "  Armar  la torta  y  montar  por capas. ",
+      "step_number": 10,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 302,
+    "fields": {
+      "description": "  Forrar  la torta con el relleno de chancaca, terminar  con las migas (hojarasca molida con las manos).",
+      "step_number": 11,
+      "recipe_id": 44,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 303,
+    "fields": {
+      "description": "  Para las migas, mezclar  con las manos la mantequilla, la canela  y el  azúcar  flor.  Luego  de  trabajar  un par  de minutos agregar  la harina  y seguir  trabajando con las manos, lo ideal es frotar  para formar migas. Reservar  Refrigerada.  ",
+      "step_number": 0,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 304,
+    "fields": {
+      "description": "  Lavar, pelar  y  picar  las manzanas en cubos. Conservar  en un bowl con agua fría  y  gotas de jugo de limón. ",
+      "step_number": 1,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 305,
+    "fields": {
+      "description": "  Poner  en una olla el azúcar, el agua  y  agregar  las manzanas escurridas. ",
+      "step_number": 2,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 306,
+    "fields": {
+      "description": "  Cocinar  hasta que se reduzca el líquido  y  que quede con consistencia de almíbar. ",
+      "step_number": 3,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 307,
+    "fields": {
+      "description": "  Luego poner  las manzanas en una fuente para horno  y  cubrir con las migas. ",
+      "step_number": 4,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 308,
+    "fields": {
+      "description": "  Hornear  a 200ºC en la parte superior  del horno para lograr  un lindo dorado de las migas.",
+      "step_number": 5,
+      "recipe_id": 45,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 309,
+    "fields": {
+      "description": "  En un bowl batir  las claras a nieve. ",
+      "step_number": 0,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 310,
+    "fields": {
+      "description": "  Preparar  un almíbar  de pelo con el azúcar  y  el  vino tinto. ",
+      "step_number": 1,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 311,
+    "fields": {
+      "description": "  Verter  lentamente el almíbar sobre las claras  ya montadas a nieve sin dejar  de batir  hasta enfriar  el merengue. ",
+      "step_number": 2,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 312,
+    "fields": {
+      "description": "  Agregar  las nueces previamente tostadas y  picadas. Reserve un poco de nueces para luego decorar. ",
+      "step_number": 3,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 313,
+    "fields": {
+      "description": " Crema Inglesa: En una olla hervir  la leche junto a  la vainilla. ",
+      "step_number": 4,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 314,
+    "fields": {
+      "description": "  Aparte mezclar  en un bowl las  yemas junto al azúcar  y  batir hasta obtener  un tono pálido. Una  vez lista las  yemas agregar un pequeño chorro de la leche hervida  y  mezclar. ",
+      "step_number": 5,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 315,
+    "fields": {
+      "description": "  Incorporar  la mezcla de  yemas a la leche hirviendo, mantener  a fuego medio sin dejar  de revolver. Una  vez que comienza a espesar, retirar  inmediatamente del fuego para que no se cocinen las  yemas. Filtrar. ",
+      "step_number": 6,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 316,
+    "fields": {
+      "description": "  Traspasar  la salsa inglesa a un bowl  y  llevar  a un baño maria inverso para enfriar. ",
+      "step_number": 7,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 317,
+    "fields": {
+      "description": "  Acompañar  el turrón con crema inglesa.",
+      "step_number": 8,
+      "recipe_id": 46,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 318,
+    "fields": {
+      "description": "  Unir  todos los ingredientes para la espuma en un bowl  y  batir energéticamente sobre un baño maría con el agua recién hervida. Batir  te tomará tiempo así que te aconsejo usar  una batidora eléctrica. ",
+      "step_number": 0,
+      "recipe_id": 47,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 319,
+    "fields": {
+      "description": "  Una  vez que la mezcla esté espumosa  y  el azúcar  se haya disuelto, la espuma está lista. ",
+      "step_number": 1,
+      "recipe_id": 47,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 320,
+    "fields": {
+      "description": "  Cortar  las frutillas en láminas  y ponerlas sobre un pocillo o plato, agregar  la espuma  y  gratinar  con ayuda de un soplete. Si no tienes soplete, precalentar  el horno a la temperatura máxima  y  gratinar  el postre por  no más de 1 minuto. ",
+      "step_number": 2,
+      "recipe_id": 47,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 321,
+    "fields": {
+      "description": "  Se puede acompañar  con helado de  vainilla o frutos rojos.",
+      "step_number": 3,
+      "recipe_id": 47,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 322,
+    "fields": {
+      "description": " Crepes: Con ayuda de una licuadora procesar  todos los ingredientes. De esta forma resulta mucho más rápido  y  te aseguras que no quedarán grumos. De todas maneras, filtrar. ",
+      "step_number": 0,
+      "recipe_id": 48,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 323,
+    "fields": {
+      "description": "  Para cocinarlos: en un sartén para crepes o en uno antiadherente calentar  con un par  de gotas de aceite, agregar  la cantidad  necesaria  para  que  forme una película bien delgada sobre el sartén, cocinar  por  un minuto o hasta que tome color, dar  vuelta  y terminar  de cocinar. ",
+      "step_number": 1,
+      "recipe_id": 48,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 324,
+    "fields": {
+      "description": " Para la salsa de naranja: Poner  la mantequilla en un sartén al fuego. Una  vez derretida agregar  el azúcar  y  cristalizar suavemente, agregar  el coñac  y  el licor  de naranja. ",
+      "step_number": 2,
+      "recipe_id": 48,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 325,
+    "fields": {
+      "description": "  Una  vez que se haya disuelto el azúcar, agregar  el jugo de naranja  y  la ralladura, dejar  al fuego para que termine de tomar temperatura  y  sumergir  los crepes doblados en triángulo.",
+      "step_number": 3,
+      "recipe_id": 48,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 326,
+    "fields": {
+      "description": "  Llevar  a una olla a fuego alto la leche junto a la crema.  Apenas suelte hervor  retirar  del fuego. ",
+      "step_number": 0,
+      "recipe_id": 49,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 327,
+    "fields": {
+      "description": "  Mientras, en un bowl batir  las yemas con el azúcar, hasta que se disuelva  y  haya tomado un color amarillo pálido. ",
+      "step_number": 1,
+      "recipe_id": 49,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 328,
+    "fields": {
+      "description": "  Agregar  la mezcla de la leche y  crema poco a poco a las  yemas sin dejar  de revolver. Una  vez lista traspasar  a pocillos aptos para el horno  y  cubrir  con papel aluminio. ",
+      "step_number": 2,
+      "recipe_id": 49,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 329,
+    "fields": {
+      "description": "  Hornear  a baño maría a 150°C por  1 hora. Dejar  enfriar. ",
+      "step_number": 3,
+      "recipe_id": 49,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 330,
+    "fields": {
+      "description": "  Espolvorear  azúcar  rubia  y sopletear  o llevar  a horno fuerte en opción gratinar.",
+      "step_number": 4,
+      "recipe_id": 49,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 331,
+    "fields": {
+      "description": "  Remojar  huesillos de un día para otro. ",
+      "step_number": 0,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 332,
+    "fields": {
+      "description": "  Retirar  huesillos  y  reservar  agua de remojo. ",
+      "step_number": 1,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 333,
+    "fields": {
+      "description": "  En un sartén hacer  un caramelo rubio con el azúcar  y  1 taza de agua. Una  vez listo agregar  el agua de remojo de los huesillos y  mezclar  con una cuchara de madera hasta disolver  el caramelo. ",
+      "step_number": 2,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 334,
+    "fields": {
+      "description": "  Luego agregar  los huesillos  y cocinar  por  30 minutos aprox. Dejar  enfriar. ",
+      "step_number": 3,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 335,
+    "fields": {
+      "description": "  Cocinar  el mote en abundante agua por  30 minutos. ",
+      "step_number": 4,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 336,
+    "fields": {
+      "description": "  Servir  bien frio junto al mote.",
+      "step_number": 5,
+      "recipe_id": 50,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 337,
+    "fields": {
+      "description": "  Para el caramelo, llevar  a fuego 1 taza de azúcar  junto a 1 taza de agua, una  vez listo el caramelo rubio, retirar  y  voltear  en una budinera apta para horno. ",
+      "step_number": 0,
+      "recipe_id": 51,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 338,
+    "fields": {
+      "description": "  Mezclar  los huevos con la taza de azúcar  y  agregar  la leche, mezclar  hasta disolver  el azúcar. Filtrar. ",
+      "step_number": 1,
+      "recipe_id": 51,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 339,
+    "fields": {
+      "description": "  Traspasar  a la budinera  y hornear  a 180°C por  30 minutos aprox. ",
+      "step_number": 2,
+      "recipe_id": 51,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 340,
+    "fields": {
+      "description": "  Deja enfriar  y  servir.",
+      "step_number": 3,
+      "recipe_id": 51,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 341,
+    "fields": {
+      "description": "  Unir  el coco con el agua, para hidratar. ",
+      "step_number": 0,
+      "recipe_id": 52,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 342,
+    "fields": {
+      "description": "  Aparte poner  en un bowl los huevos con las  yemas  y  el azúcar, revolver  hasta disolver  el azúcar (sin batir). ",
+      "step_number": 1,
+      "recipe_id": 52,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 343,
+    "fields": {
+      "description": "  Agregar  el coco  y  mezclar  bien Reposar  la mezcla por  una hora, para que el coco termine de hidratarse. ",
+      "step_number": 2,
+      "recipe_id": 52,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 344,
+    "fields": {
+      "description": "  Poner  en pocillos individuales, sólo hasta la mitad de su capacidad. ",
+      "step_number": 3,
+      "recipe_id": 52,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 345,
+    "fields": {
+      "description": "  Hornear  en baño maría a 180ºC por  40 minutos.",
+      "step_number": 4,
+      "recipe_id": 52,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 346,
+    "fields": {
+      "description": " Peras y  salsa: Poner  en una olla el  vino, el endulzante  y  la canela.  Agregar  las peras peladas, partidas a la mitad, sin carozo, dejando el tallo en una de las mitades. ",
+      "step_number": 0,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 347,
+    "fields": {
+      "description": "  Cocinar  las peras hasta dejar  a punto (aprox 10 minutos). ",
+      "step_number": 1,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 348,
+    "fields": {
+      "description": "  Retirar  las peras, reservar. ",
+      "step_number": 2,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 349,
+    "fields": {
+      "description": "  Filtrar  el jugo de cocción. ",
+      "step_number": 3,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 350,
+    "fields": {
+      "description": "  Ligar  con almidón de maíz. ",
+      "step_number": 4,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 351,
+    "fields": {
+      "description": " Merengue: Batir  claras a nieve con una pizca de sal, agregar  la tagatosa  y  seguir batiendo hasta que esté firme  y homogéneo. Dar  forma ovalada, poner  sobre papel mantequilla en una lata  y  hornear  por  5 minutos a 150ºC. ",
+      "step_number": 5,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 352,
+    "fields": {
+      "description": " Galletas de avena:  Precalentar  horno a 170°C.  ",
+      "step_number": 6,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 353,
+    "fields": {
+      "description": "  En un sartén, colocar  la avena a dorar  suavemente junto con el aceite de coco, aproximadamente 10 minutos, sin dejar  que se queme. Reservar. ",
+      "step_number": 7,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 354,
+    "fields": {
+      "description": "  En un bowl, batir  los huevos enteros con el endulzante en polvo. Incorporar  la avena a la mezcla. ",
+      "step_number": 8,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 355,
+    "fields": {
+      "description": "  Disponer  en lata de horno con papel mantequilla enaceitado ligeramente. Con dos cucharas, dar  forma de la mezcla de galletas sobre el papel. No dejar  juntas  ya que en el horno se expanden. ",
+      "step_number": 9,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 356,
+    "fields": {
+      "description": "  Hornear  de 8 a 10 min aprox. Para  verificar  la cocción, deben estar  doradas por  abajo. ",
+      "step_number": 10,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 357,
+    "fields": {
+      "description": "  Retirar  del horno, colocar en rejilla enfriadora sin papel mantequilla para enfriar. ",
+      "step_number": 11,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 358,
+    "fields": {
+      "description": "  Servir  por  persona ½ pera, con un rosetón de merengue  y  una porción pequeña de galletas molidas.",
+      "step_number": 12,
+      "recipe_id": 53,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 359,
+    "fields": {
+      "description": " Para el mousse: En una olla calentar  la leche de almendras hasta que hierva, retirar  del fuego  y  agregar  el chocolate picado fino. Mezclar hasta unir  todo. Dejar  entibiar  la mezcla. ",
+      "step_number": 0,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 360,
+    "fields": {
+      "description": "  Hidratar  las láminas de colapez en un bowl con abundante agua fría. Una  vez hidratados, escurrir y  derretir  por  10 segundos en el microondas.  Agregar  a la mezcla anterior. ",
+      "step_number": 1,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 361,
+    "fields": {
+      "description": "  Por  otro lado batir  las claras a nieve  con  una  pizca  de  sal,  agregar la  tagatosa  y  seguir  batiendo  hasta que estén firmes. ",
+      "step_number": 2,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 362,
+    "fields": {
+      "description": "  Agregar  el merengue de forma envolvente  y  suave a la mezcla de chocolate. ",
+      "step_number": 3,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 363,
+    "fields": {
+      "description": "  Verter  en  vasos o moldes  y refrigerar  por  1 hora. ",
+      "step_number": 4,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 364,
+    "fields": {
+      "description": " Para la salsa de berries: Macerar  los berries picados con agua  y  tagatosa por  30 minutos. Licuar  y  reservar. ",
+      "step_number": 5,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 365,
+    "fields": {
+      "description": " Para el praliné: En un sartén poner  la tagatosa con agua  y  cocinar  hasta formar un caramelo suave. En ese momento agregar  las almendras y  mezclar  suavemente. Dejar cocinar  por  algunos minutos, hasta que tome color  caramelo  y voltear  la mezcla en una lámina de silicona. Dejar  enfriar. ",
+      "step_number": 6,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 366,
+    "fields": {
+      "description": "  Trozar  con ayuda de un cuchillo sobre una tabla para cortar. Luego traspasar  los trozos a una procesadora y  picar. ",
+      "step_number": 7,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 367,
+    "fields": {
+      "description": "  Servir  el mousse de chocolate junto con la salsa de berries  y  un toque de praliné de almendras.",
+      "step_number": 8,
+      "recipe_id": 54,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 368,
+    "fields": {
+      "description": "  Para el bizcocho  vegano: en un bowl mezclar  el agua, el aceite  y  el azúcar. ",
+      "step_number": 0,
+      "recipe_id": 55,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 369,
+    "fields": {
+      "description": "  Luego agregar  la harina, el cacao amargo  y  los polvos de hornear, mezclar  hasta lograr  una mezcla homogénea. ",
+      "step_number": 1,
+      "recipe_id": 55,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 370,
+    "fields": {
+      "description": "  Hornear  por  25 a 30 minutos a 180°C. Retirar  y  enfriar. ",
+      "step_number": 2,
+      "recipe_id": 55,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 371,
+    "fields": {
+      "description": "  Batir  la crema a punto chantilly. ",
+      "step_number": 3,
+      "recipe_id": 55,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 372,
+    "fields": {
+      "description": "  Para armar  la torta, cortar  el bizcocho en dos partes  y  luego agregar  una capa de crema chantilly  y  fruta. La última capa terminar  de la misma forma pero decorada.",
+      "step_number": 4,
+      "recipe_id": 55,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 373,
+    "fields": {
+      "description": " Poner azúcar en un sartén u olla limpia, sin restos de materia grasa.",
+      "step_number": 0,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 374,
+    "fields": {
+      "description": " Poner a fuego lento para obtener un caramelo rubio y parejo (moviendo el azúcar sin usar utensilios, girando la olla de manera circular). No revolver. ",
+      "step_number": 1,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 375,
+    "fields": {
+      "description": " Agregar la leche entera sobre el caramelo que se solidificará inmediatamente. Sin bajar el fuego, agregar el cacao y una pizca de canela en polvo o un palo de canela, una vaina de vainilla partida en dos y nuez moscada rallada.",
+      "step_number": 2,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 376,
+    "fields": {
+      "description": " Revolver todo hasta que se derrita el caramelo.",
+      "step_number": 3,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 377,
+    "fields": {
+      "description": " Cocer a fuego lento, revolviendo el chocolate caliente muy a menudo.",
+      "step_number": 4,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 378,
+    "fields": {
+      "description": " La idea es que se evapore parte del líquido, para que tome consistencia.",
+      "step_number": 5,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 379,
+    "fields": {
+      "description": " Filtrar, servir en tazas de tamaño mediano y poner un rosetón de crema chantilly.",
+      "step_number": 6,
+      "recipe_id": 56,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 380,
+    "fields": {
+      "description": "  En un bowl con ayuda de una batidora eléctrica unir  la mantequilla  y  el  azúcar.  Batir  hasta lograr  una mezcla pálida  y  lisa. ",
+      "step_number": 0,
+      "recipe_id": 57,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 381,
+    "fields": {
+      "description": "  Agregar  los huevos uno a uno sin dejar  de mezclar. Luego agregar  la harina, polvos de hornear, la leche  y  revolver  hasta tener  una mezcla homogénea. Aromatizar  con escencia de vainilla. ",
+      "step_number": 1,
+      "recipe_id": 57,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 382,
+    "fields": {
+      "description": "  Llenar  las cápsulas de papel hasta la mitad  y  hornear  a 180°C por  12 minutos. ",
+      "step_number": 2,
+      "recipe_id": 57,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 383,
+    "fields": {
+      "description": "  Mientras se enfrían, puedes batir  la crema  vegetal. ",
+      "step_number": 3,
+      "recipe_id": 57,
+      "image": "imagen.jpeg"
+    }
+  },
+  {
+    "model": "step.Step",
+    "pk": 384,
+    "fields": {
+      "description": "  Decorar  con crema o merengue y  mostacillas.",
+      "step_number": 4,
+      "recipe_id": 57,
+      "image": "imagen.jpeg"
+    }
+  }
+]
