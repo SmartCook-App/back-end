@@ -1,0 +1,168 @@
+[
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 0,
+      "fields": { "name": "Acompañamientos", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 1,
+      "fields": { "name": "Picoteo", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 2,
+      "fields": { "name": "Barato", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 3,
+      "fields": { "name": "Buscador", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 4,
+      "fields": { "name": "Carnes", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 5,
+      "fields": { "name": "Cocineros", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 6,
+      "fields": { "name": "Comida Chilena", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 7,
+      "fields": { "name": "Copete", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 8,
+      "fields": { "name": "Desayuno", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 9,
+      "fields": { "name": "Ensaladas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 10,
+      "fields": { "name": "Entradas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 11,
+      "fields": { "name": "Fácil", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 12,
+      "fields": { "name": "Jugos", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 13,
+      "fields": { "name": "Light", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 14,
+      "fields": { "name": "Pan", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 15,
+      "fields": { "name": "Pastas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 16,
+      "fields": { "name": "Pescados", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 17,
+      "fields": { "name": "Platos Fríos", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 18,
+      "fields": { "name": "Repostería", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 19,
+      "fields": { "name": "Salsas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 20,
+      "fields": { "name": "Sopas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 21,
+      "fields": { "name": "Thermomix", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 22,
+      "fields": { "name": "Postres", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 23,
+      "fields": { "name": "Vegetariana", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 24,
+      "fields": { "name": "Sin gluten", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 25,
+      "fields": { "name": "Pezetariana", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 26,
+      "fields": { "name": "Vegano", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 27,
+      "fields": { "name": "Bajón", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 28,
+      "fields": { "name": "Diabéticos", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 29,
+      "fields": { "name": "Menos de 2 horas", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 30,
+      "fields": { "name": "Menos de 1 hora", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 31,
+      "fields": { "name": "Menos de 30 min", "image": "image.jpeg" }
+    },
+    {
+      "model": "dishCategory.DishCategory",
+      "pk": 32,
+      "fields": { "name": "Menos de 15 min", "image": "image.jpeg" }
+    }
+  ]
+  

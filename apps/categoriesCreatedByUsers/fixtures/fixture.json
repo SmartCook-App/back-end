@@ -1,0 +1,10 @@
+[
+    {
+        "model": "categoriesCreatedByUsers.CategoriesCreatedByUsers",
+        "pk": 1,
+        "fields": {
+            "category_name": "Todos",
+            "image": "image.jpeg"
+        }
+    }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 0,
+    "fields": { "name": "Granos", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 1,
+    "fields": { "name": "Verduras", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 2,
+    "fields": { "name": "Harinas y polvos", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 3,
+    "fields": { "name": "Frutas", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 4,
+    "fields": { "name": "Frutos secos", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 5,
+    "fields": { "name": "Carnes y fiambres", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 6,
+    "fields": { "name": "Pescadería", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 7,
+    "fields": { "name": "Lácteos", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 8,
+    "fields": { "name": "Aceites y condimentos", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 9,
+    "fields": { "name": "Fideos y pastas", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 10,
+    "fields": { "name": "Aderezos y Salsas", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 11,
+    "fields": { "name": "Endulzante y azúcar", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 12,
+    "fields": { "name": "Conservas", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 13,
+    "fields": { "name": "Licor", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 14,
+    "fields": { "name": "Vegano", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 15,
+    "fields": { "name": "Sin lactosa", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 16,
+    "fields": { "name": "Sin gluten", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 17,
+    "fields": { "name": "Otros", "image": "image.jpeg" }
+  },
+  {
+    "model": "ingredientCategory.IngredientCategory",
+    "pk": 18,
+    "fields": { "name": "Repostería", "image": "image.jpeg" }
+  }
+]
