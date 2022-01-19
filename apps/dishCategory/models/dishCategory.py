@@ -3,6 +3,8 @@ from apps.user.models.user import User
 
 
 class DishCategory(models.Model):
+    class Meta:
+        db_table = 'dish_category'
     name = models.CharField(max_length=200)
     image = models.CharField(max_length=200)
 

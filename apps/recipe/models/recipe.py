@@ -2,6 +2,9 @@ from django.db import models
 
 
 class Recipe(models.Model):
+    class Meta:
+        db_table = 'recipe'
+
     name = models.CharField(max_length=200)
     time = models.PositiveIntegerField()
     tips = models.TextField(max_length=200)

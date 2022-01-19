@@ -2,6 +2,9 @@ from django.db import models
 
 
 class ShopList(models.Model):
+    class Meta:
+        db_table = 'shoplist'
+
     is_completed = models.BooleanField(blank=True, null=True)
     ingredient = models.ManyToManyField(
         'ingredient.Ingredient', through='IngredientShopList',  through_fields=('shopList_id', 'ingredient_id'), related_name='shop_lists'

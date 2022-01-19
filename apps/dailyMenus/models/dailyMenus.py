@@ -2,6 +2,8 @@ from django.db import models
 
 
 class DailyMenus(models.Model):
+    class Meta:
+        db_table = 'daily_menus'
     day = models.DateField()
     user = models.ForeignKey(
         'user.User', on_delete=models.CASCADE, related_name='user_id', null=True)

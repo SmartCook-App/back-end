@@ -2,6 +2,8 @@ from django.db import models
 
 
 class Step(models.Model):
+    class Meta:
+        db_table = 'step'
     step_number = models.IntegerField(default=None)
     description = models.TextField(max_length=200)
     image = models.CharField(max_length=200)
