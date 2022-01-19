@@ -31,6 +31,8 @@ class User(AbstractUser):
 
 
 class CategoriesInUserProfile(models.Model):
+    class Meta:
+        db_table = 'categories_in_user_profile'
     recipe = models.ForeignKey(
         'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_that_belongs_to_user_category')
     user = models.ForeignKey(

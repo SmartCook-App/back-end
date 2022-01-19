@@ -33,6 +33,8 @@ class Recipe(models.Model):
 
 
 class RecipeNotes(models.Model):
+    class Meta:
+        db_table = 'recipe_notes'
     recipe = models.ForeignKey(
         'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_recipe_notes')
     user = models.ForeignKey(
@@ -41,6 +43,8 @@ class RecipeNotes(models.Model):
 
 
 class LastTimeCooked(models.Model):
+    class Meta:
+        db_table = 'last_time_cooked'
     recipe = models.ForeignKey(
         'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_last_date_cooked')
     user = models.ForeignKey(
@@ -49,6 +53,8 @@ class LastTimeCooked(models.Model):
 
 
 class IngredientRecipe(models.Model):
+    class Meta:
+        db_table = 'ingredient_recipe'
     ingredient = models.ForeignKey(
         'ingredient.Ingredient', on_delete=models.CASCADE, related_name='recipes')
     recipe = models.ForeignKey(

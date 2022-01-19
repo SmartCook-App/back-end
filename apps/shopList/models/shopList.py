@@ -12,6 +12,8 @@ class ShopList(models.Model):
 
 
 class IngredientShopList(models.Model):
+    class Meta:
+        db_table = 'ingredient_shoplist'
     ingredient = models.ForeignKey(
         'ingredient.Ingredient', on_delete=models.CASCADE, related_name='ingredient_shop_lists')
     shopList = models.ForeignKey(
