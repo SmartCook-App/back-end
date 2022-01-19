@@ -19,8 +19,8 @@ class Recipe(models.Model):
     notes = models.ManyToManyField(
         'user.User', through='recipeNotes', through_fields=('recipe_id', 'user_id'), related_name='recipes_notes')
 
-    lastTimeCooked = models.ManyToManyField(
-        'user.User', through='LastTimeCooked', through_fields=('recipe_id', 'user_id'), related_name='last_time_cooked_recipes')
+    lastDateCooked = models.ManyToManyField(
+        'user.User', through='LastTimeCooked', through_fields=('recipe_id', 'user_id'), related_name='last_date_cooked_recipes')
 
     ingredient = models.ManyToManyField(
         'ingredient.Ingredient', through='IngredientRecipe', through_fields=('recipe_id', 'ingredient_id'), related_name='recipe_ingredient')
@@ -39,10 +39,10 @@ class RecipeNotes(models.Model):
 
 class LastTimeCooked(models.Model):
     recipe_id = models.ForeignKey(
-        'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_last_time_cooked')
+        'recipe.Recipe', on_delete=models.CASCADE, related_name='recipe_last_date_cooked')
     user_id = models.ForeignKey(
-        'user.User', on_delete=models.CASCADE, related_name='user_last_time_cooked')
-    lastTimeCooked = models.PositiveIntegerField()
+        'user.User', on_delete=models.CASCADE, related_name='user_last_date_cooked')
+    lastDateCooked = models.DateField()
 
 
 class IngredientRecipe(models.Model):
