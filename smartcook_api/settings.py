@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     'apps.ingredientCategory.apps.IngredientcategoryConfig',
     'apps.ingredient.apps.IngredientConfig',
     'apps.shopList.apps.ShoplistConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
