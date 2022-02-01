@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "django_settings": "smartcook_api.settings",
+        "project_name": "back-end",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-n76t3ze4o",
+        "aws_region": "sa-east-1",
+        "profile_name": "mjtala",
+        "enviroment_variables": {
+            "SECRET_KEY": "django-insecure-p7fqi+m8tmu1on4j!(+fk=gl8m3f-fd2rr*$k1fvvawp!1=6a2",
+            "DEBUG": "True",
+            "DJANGO_ALLOWED_HOSTS": "*",
+            "DB_NAME": "smartcook",
+            "DB_USER": "m.jesustala",
+            "DB_PASSWORD": 9812,
+            "DB_HOST": "db",
+            "DB_PORT": "5432:5432"
+        }
+    }
+}
