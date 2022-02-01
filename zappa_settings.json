@@ -1,20 +1,33 @@
 {
     "dev": {
+        "aws_region": "us-east-1",
         "django_settings": "smartcook_api.settings",
+        "profile_name": "fivaldivia",
         "project_name": "back-end",
         "runtime": "python3.8",
-        "s3_bucket": "zappa-n76t3ze4o",
-        "aws_region": "sa-east-1",
-        "profile_name": "mjtala",
+        "s3_bucket": "zappa-znkwkg2fl",
+        "vpc_config": {
+            "SubnetIds": [
+                "subnet-08cfa4405ff3190b1",
+                "subnet-0c0db7fae58c25a00",
+                "subnet-0c72bc8fb58e5f9ca",
+                "subnet-0e1317802853f7802",
+                "subnet-0dcbbd179197a659c",
+                "subnet-0a13d09ce54c4ac94"
+            ],
+            "SecurityGroupIds": [
+                "sg-072ea68dd216e8561"
+            ]
+        },
         "enviroment_variables": {
             "SECRET_KEY": "django-insecure-p7fqi+m8tmu1on4j!(+fk=gl8m3f-fd2rr*$k1fvvawp!1=6a2",
             "DEBUG": "True",
-            "DJANGO_ALLOWED_HOSTS": "*",
-            "DB_NAME": "smartcook",
-            "DB_USER": "m.jesustala",
-            "DB_PASSWORD": 9812,
-            "DB_HOST": "db",
-            "DB_PORT": "5432:5432"
+            "DJANGO_ALLOWED_HOSTS": "127.0.0.1 1xlqmioxw2.execute-api.us-east-1.amazonaws.com",
+            "DB_NAME": "smartcookDjangoProject",
+            "DB_USER": "smartcookdbuser",
+            "DB_PASSWORD": "wSkjxJ5ZOwXpcPtykNl5",
+            "DB_HOST": "smartcookdjangoproject.c4lxms0fhjab.us-east-1.rds.amazonaws.com",
+            "DB_PORT": 5432
         }
     }
 }
