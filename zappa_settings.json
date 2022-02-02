@@ -17,7 +17,7 @@
       ],
       "SecurityGroupIds": ["sg-072ea68dd216e8561"]
     },
-    "enviroment_variables": {
+    "environment_variables": {
       "SECRET_KEY": "django-insecure-p7fqi+m8tmu1on4j!(+fk=gl8m3f-fd2rr*$k1fvvawp!1=6a2",
       "DEBUG": "True",
       "DJANGO_ALLOWED_HOSTS": "127.0.0.1 1xlqmioxw2.execute-api.us-east-1.amazonaws.com",
@@ -25,7 +25,7 @@
       "DB_USER": "smartcookdbuser",
       "DB_PASSWORD": "wSkjxJ5ZOwXpcPtykNl5",
       "DB_HOST": "smartcookdjangoproject.c4lxms0fhjab.us-east-1.rds.amazonaws.com",
-      "DB_PORT": 5432
+      "DB_PORT": "5432"
     }
   }
 }
