@@ -12,9 +12,9 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 from dotenv import load_dotenv
-from os import getenv
+from os import environ
 
-
+#talvez hay que sacarlo
 load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -24,12 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = getenv('SECRET_KEY')
+SECRET_KEY = environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = bool(getenv('DEBUG'))
+DEBUG = bool(environ.get('DEBUG'))
 
-ALLOWED_HOSTS = [getenv('DJANGO_ALLOWED_HOSTS')]
+ALLOWED_HOSTS = environ.get('DJANGO_ALLOWED_HOSTS').split(" ")
 SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
 
 
@@ -45,6 +45,15 @@ INSTALLED_APPS = [
     'phonenumber_field',
     'apps.user.apps.UserConfig',
     'apps.recipe.apps.RecipeConfig',
+    'apps.step.apps.StepConfig',
+    'apps.video.apps.VideoConfig',
+    'apps.dishCategory.apps.DishcategoryConfig',
+    'apps.categoriesCreatedByUsers.apps.CategoriescreatedbyusersConfig',
+    'apps.dailyMenus.apps.DailymenusConfig',
+    'apps.ingredientCategory.apps.IngredientcategoryConfig',
+    'apps.ingredient.apps.IngredientConfig',
+    'apps.shopList.apps.ShoplistConfig',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
@@ -84,11 +93,11 @@ WSGI_APPLICATION = 'smartcook_api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': getenv('DB_NAME'),
-        'USER': getenv('DB_USER'),
-        'PASSWORD': getenv('DB_PASSWORD'),
-        'HOST': getenv('DB_HOST'),
-        'PORT': getenv('DB_PORT'),
+        'NAME': environ.get('DB_NAME'),
+        'USER': environ.get('DB_USER'),
+        'PASSWORD': environ.get('DB_PASSWORD'),
+        'HOST': environ.get('DB_HOST'),
+        'PORT': environ.get('DB_PORT'),
     }
 }
 

@@ -1,0 +1,930 @@
+[
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Jugo de Luz",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 10,
+        "tips": "Es rico en vitaminas del complejo B, mejora el sistema nervioso y el metabolismo y nos aporta fibras"
+      },
+      "model": "recipe.Recipe",
+      "pk": 0
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Leche Vegetal",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 5,
+        "tips": "Almendras activadas: sumergir las almendras por lo menos 8 horas en agua fría, luego escurrir. Esta leche puede usarse para reemplazar la leche animal. Para diabéticos reemplazar azúcar por stevia o tagatosa."
+      },
+      "model": "recipe.Recipe",
+      "pk": 1
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Caldo",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 40,
+        "tips": "Para tener caldo saludable, siempre a mano, congelar en cubetas de hielo o porcionar en bolsas para guardar cantidades más grandes."
+      },
+      "model": "recipe.Recipe",
+      "pk": 2
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pebre",
+        "owner": 0,
+        "portions": 12,
+        "proteins": 15,
+        "time": 3,
+        "tips": "Si les sobra lo pueden guardar en frascos y así disfrutar día a día."
+      },
+      "model": "recipe.Recipe",
+      "pk": 3
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pan amasado",
+        "owner": 0,
+        "portions": 12,
+        "proteins": 15,
+        "time": 90,
+        "tips": "En invierno procura dejar descansar la masa en un lugar tibio, recuerda que la temperatura es un factor importante para que la levadura actué"
+      },
+      "model": "recipe.Recipe",
+      "pk": 4
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pan amasado vegano",
+        "owner": 0,
+        "portions": 12,
+        "proteins": 15,
+        "time": 90,
+        "tips": "En invierno procura dejar descansar la masa en un lugar tibio, recuerda que la temperatura es un factor importante para que la levadura actué"
+      },
+      "model": "recipe.Recipe",
+      "pk": 5
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Crema de palta",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 10,
+        "tips": "none"
+      },
+      "model": "recipe.Recipe",
+      "pk": 6
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Crema de palta",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 10,
+        "tips": "none"
+      },
+      "model": "recipe.Recipe",
+      "pk": 7
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Ceviche de salmón",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 15,
+        "tips": "Puedes reservar el salmón cortado en el refrigerador o en un baño maría inverso"
+      },
+      "model": "recipe.Recipe",
+      "pk": 8
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Ceviche de corvina",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 15,
+        "tips": "Puedes reservar el salmón cortado en el refrigerador o en un baño maría inverso"
+      },
+      "model": "recipe.Recipe",
+      "pk": 9
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Sopa fría de betarragas",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 15,
+        "tips": "Puedes agregar frutos secos o chía"
+      },
+      "model": "recipe.Recipe",
+      "pk": 10
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Ensalada de pollo y camarones",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 20,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 11
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Ensalada de tofu y champiñones",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 20,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 12
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Entrada de salmón",
+        "owner": 0,
+        "portions": 2,
+        "proteins": 15,
+        "time": 30,
+        "tips": "Puede cocinarse en horno convencional: 10 minutos en horno caliente a 180°C.\nSi quiere, puede reemplazar la crema por leche, con un huevo más.\nSe pueden poner todo tipo de verduras picadas en cubos pequeños.\nNo es necesario usar sal, ya que con la del salmón ahumado es suficiente."
+      },
+      "model": "recipe.Recipe",
+      "pk": 13
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Carpaccio filete de vacuno",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 5,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 14
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Crema de coliflor",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 20,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 15
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Tacos de maíz",
+        "owner": 0,
+        "portions": 15,
+        "proteins": 15,
+        "time": 30,
+        "tips": "Para hacerlos puedes usar film plástico o cortar una bolsa plástica limpia.\nPuedes reservar las masas de tacos que te sobren en el refrigerador cubiertas con plástico para que no se sequen."
+      },
+      "model": "recipe.Recipe",
+      "pk": 16
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Tacos de maíz",
+        "owner": 0,
+        "portions": 15,
+        "proteins": 15,
+        "time": 30,
+        "tips": "Para hacerlos puedes usar film plástico o cortar una bolsa plástica limpia.\nPuedes reservar las masas de tacos que te sobren en el refrigerador cubiertas con plástico para que no se sequen."
+      },
+      "model": "recipe.Recipe",
+      "pk": 17
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Gallo pinto (porotos negros con arroz)",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 15,
+        "tips": "Puedes agregarle huevo frito, salchicha y/o queso fresco"
+      },
+      "model": "recipe.Recipe",
+      "pk": 18
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Sopa de mariscos estilo Thai",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 45,
+        "tips": "En lugar de hacer el curry, se puede comprar la pasta curry Thai."
+      },
+      "model": "recipe.Recipe",
+      "pk": 19
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pescado al horno con salsa dulce",
+        "owner": 0,
+        "portions": 5,
+        "proteins": 15,
+        "time": 45,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 20
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Salmón con acompañamiento",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 15,
+        "tips": "El mix de hojas puede ser como tu quieras.\nPuedes agregar ciboullete también."
+      },
+      "model": "recipe.Recipe",
+      "pk": 21
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Papillote",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 20,
+        "tips": "Puedes agregar hierbas o vegetales a tu gusto.\nTambién lo puedes acompañar con un puré de verduras, ensaladas.\nPara evitar que se queme el papel mantequilla, pintarlo con aceite.\nCon camarones, queda delicioso.\nAl usar pescados grasos usar menos materia grasa."
+      },
+      "model": "recipe.Recipe",
+      "pk": 22
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Papillote",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 20,
+        "tips": "Puedes agregar hierbas o vegetales a tu gusto.\nTambién lo puedes acompañar con un puré de verduras, ensaladas.\nPara evitar que se queme el papel mantequilla, pintarlo con aceite.\nCon camarones, queda delicioso.\nAl usar pescados grasos usar menos materia grasa."
+      },
+      "model": "recipe.Recipe",
+      "pk": 23
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pizza polenta",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 40,
+        "tips": "Como sugerencia, el relleno, siempre debe ir con queso, pero el resto depende del gusto de cada uno."
+      },
+      "model": "recipe.Recipe",
+      "pk": 24
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Charquicán",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 50,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 25
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Charquicán vegetariano",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 50,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 26
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pechuga de pavo jugosa",
+        "owner": 0,
+        "portions": 15,
+        "proteins": 15,
+        "time": 90,
+        "tips": "Para calcular el tiempo de cocción,\ndescuenta del peso total el 20%\n(corresponde al hueso). Por ejemplo: una pechuga de 3\nkilos con hueso se debe cocinar por una hora aprox.\nSe puede consumir todo el año y no solo en navidad que suele ser más caro."
+      },
+      "model": "recipe.Recipe",
+      "pk": 27
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pollo al coñac",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 50,
+        "tips": "Siempre que se hagan\npreparaciones de cocción larga, les\nsugiero condimentar con sal al final.\nYa que si la ponemos desde el\nprincipio, luego de la reducción del\ncaldo, se concentrará demasiado.\n- Puedes acompañar con papas fritas.\n- Para los celíacos reemplazar la harina\npor almidón de maíz."
+      },
+      "model": "recipe.Recipe",
+      "pk": 28
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pastel de choclo",
+        "owner": 0,
+        "portions": 7,
+        "proteins": 15,
+        "time": 90,
+        "tips": "No agregar harina en caso de Celíacos."
+      },
+      "model": "recipe.Recipe",
+      "pk": 29
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Cerdo en cerveza negra",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 60,
+        "tips": "Como sugerencia acompañarlo con algo untuoso como un puré de papas o un risotto. Si se reemplaza la harina por almidón de maíz y se usa cerveza sin gluten, es apto para celíacos."
+      },
+      "model": "recipe.Recipe",
+      "pk": 30
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "No pescado (zapallo italiano)",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 30,
+        "tips": "El NO pescado queda muy rico acompañado de ensalada a la chilena, apio palta o un clásico puré o arroz. Nunca macerar un producto con limón en recipientes de aluminio, se pondrá amargo. Prefiere otro material."
+      },
+      "model": "recipe.Recipe",
+      "pk": 31
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Plateada práctica",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 90,
+        "tips": "Para saber cuando un horno está caliente (180ºC), meter la mano, darla vuelta y tener que sacarla porque te quema. Acompañar con papas cocidas y ensaladas, un simple cous cous o puré de papas."
+      },
+      "model": "recipe.Recipe",
+      "pk": 32
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Hamburguesa de lentejas",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 45,
+        "tips": "Se pueden hacer con cualquier tipo de legumbres secas: portos, garbanzos. Si prefieres puedes cocinar las hamburguesas en el horno sobre una lata levemente aceitada o lámina de silicona. Las puedes comer como sándwich (celíacos con pan de arroz) o acompañar con una ensalada. Las hamburguesas siempre se ligan con huevos, pero para dar opción a vegetarianos y veganos usamos harina de grabanzos."
+      },
+      "model": "recipe.Recipe",
+      "pk": 33
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Garbsnzos con quinoa",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 60,
+        "tips": "Puedes agregar semillas o frutos secos. Al unir la legumbre (garbanzos) con un cereal (quínoa), proteicamente se convierte en un plato completo. Saponina: Sustancia amarga propia de la quínoa."
+      },
+      "model": "recipe.Recipe",
+      "pk": 34
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Budín de mote",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 90,
+        "tips": "Idealmente servir solo, ya que tiene todos los nutrientes necesarios: proteínas, hidratos de carbono, fibras y vitaminas. Puede reemplazar la leche de vaca por leche vegetal"
+      },
+      "model": "recipe.Recipe",
+      "pk": 35
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Pastel de jaibas",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 45,
+        "tips": "MUY IMPORTANTE: Para el caldo si usas jaibas frescas, limpiar muy bien la carne eliminando por completo el aparato digestivo."
+      },
+      "model": "recipe.Recipe",
+      "pk": 36
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Caldo de caparazones",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 60,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 37
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Encaje inglés",
+        "owner": 0,
+        "portions": 3,
+        "proteins": 15,
+        "time": 40,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 38
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Brownie con helado de plátano",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 30,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 39
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Bruselina de canela",
+        "owner": 0,
+        "portions": 25,
+        "proteins": 15,
+        "time": 120,
+        "tips": "Para lograr una buena crema chantilly siempre debe estar bien fría y debes batirla hasta que tome consistencia y forme rosetones con el batidor. La receta de las galletas es la misma receta para hacer los panqueques para la típica torta de panqueques."
+      },
+      "model": "recipe.Recipe",
+      "pk": 40
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Torta lúcuma merengue",
+        "owner": 0,
+        "portions": 7,
+        "proteins": 15,
+        "time": 100,
+        "tips": " Recuerda siempre que para obtener un buen merengue, debes dejar los huevos fuera del refrigerador. Para servir: retirar del freezer y mantener en el refrigerador por 3 horas, así estará blandita y deliciosa."
+      },
+      "model": "recipe.Recipe",
+      "pk": 41
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Tres leches",
+        "owner": 0,
+        "portions": 10,
+        "proteins": 15,
+        "time": 60,
+        "tips": "También se puede hacer 4 leches, agregando manjar. Si están con poco tiempo, pueden reemplazar el bizcochuelo por galletas de champaña. Debe quedar muy húmedo. Al tener un textura más fina, el azúcar flor penetra en los alvéolos (burbujas) de las claras y hace más resistente y duradero el merengue. Las claras suben más si están a temperatura ambiente. La sal ayuda a oxigenar la claras por lo tanto se logra mayor volumen."
+      },
+      "model": "recipe.Recipe",
+      "pk": 42
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Torta chancaca",
+        "owner": 0,
+        "portions": 10,
+        "proteins": 15,
+        "time": 120,
+        "tips": "Queda perfecta si se hace con un día de anticipación."
+      },
+      "model": "recipe.Recipe",
+      "pk": 43
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Apple crisp",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 60,
+        "tips": "Recuerda sacar la mantequilla del refrigerador un par de horas antes para que este blanda, evita usar microondas ya que antes que te des cuenta ya estará derretida y solo necesitas que este blanda. Con un poquito de crema chantilly queda celestial. En la miga si se usa harina de maíz o arroz podrían consumirlo los celíacos."
+      },
+      "model": "recipe.Recipe",
+      "pk": 44
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Turrón de vino",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 60,
+        "tips": "Recuerda que el almíbar de pelo está listo una vez que comienza a formar múltiples burbujas gruesas. Cuida la temperatura en la salsa inglesa porque las yemas comienzan a cocinarse a los 85°C por lo tanto cuando la preparares no debes superar esa temperatura. Lleva hartas yemas pero la gracia es que así no se corta. El único cuidado que tienen que tener, es no comer mucho!."
+      },
+      "model": "recipe.Recipe",
+      "pk": 45
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Frutas con espuma dulce",
+        "owner": 0,
+        "portions": 2,
+        "proteins": 15,
+        "time": 15,
+        "tips": "Si no usamos más de 4 frutillas enteras y reemplazamos el azúcar por tagatosa para endulzar la espuma, es apto para el consumo de diabéticos. Los berries como las frutillas o los arándanos tienen baja cantidad de glucosa y son ricos en antioxidantes."
+      },
+      "model": "recipe.Recipe",
+      "pk": 46
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Crepes de naranja",
+        "owner": 0,
+        "portions": 12,
+        "proteins": 15,
+        "time": 40,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 47
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Créme brulée",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 60,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 48
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Mote con huesillos",
+        "owner": 0,
+        "portions": 12,
+        "proteins": 15,
+        "time": 40,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 49
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Leche asada",
+        "owner": 0,
+        "portions": 8,
+        "proteins": 15,
+        "time": 40,
+        "tips": "Cuando se hace caramelo, es muy importante hacerlo en una olla o sarten limpio que no tenga restos de grasa, ya que el caramelo se cortará."
+      },
+      "model": "recipe.Recipe",
+      "pk": 50
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Quindim",
+        "owner": 0,
+        "portions": 2,
+        "proteins": 15,
+        "time": 40,
+        "tips": "Comer en bajas dosis, por que el azúcar en la sangre puede subir hasta las nubes."
+      },
+      "model": "recipe.Recipe",
+      "pk": 51
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Peras al vino tinto",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 60,
+        "tips": "Usar distintos endulzantes para cada una de las preparaciones (stevia fresca, tagatosa). La receta de los galletones es ideal para comer de colación."
+      },
+      "model": "recipe.Recipe",
+      "pk": 52
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Mousse chocolqte sin azúcar",
+        "owner": 0,
+        "portions": 4,
+        "proteins": 15,
+        "time": 120,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 53
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Torta rústica",
+        "owner": 0,
+        "portions": 7,
+        "proteins": 15,
+        "time": 90,
+        "tips": ""
+      },
+      "model": "recipe.Recipe",
+      "pk": 54
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Chocolate caliente Oh la la!",
+        "owner": 0,
+        "portions": 10,
+        "proteins": 15,
+        "time": 30,
+        "tips": "Mientras más espeso queda, más delicioso e irresistible. "
+      },
+      "model": "recipe.Recipe",
+      "pk": 55
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Cupcakes",
+        "owner": 0,
+        "portions": 10,
+        "proteins": 15,
+        "time": 40,
+        "tips": "Recuerda usar mantequilla a temperatura ambiente, de esta forma será más fácil unir al azúcar. La crema chantilly debe estar bien fría al momento de batir para mantener las grasas en estado sólido para conservar su volumen. La crema vegetal tiene la ventaja que al batirla no se corta y no se debe agregar azúcar porque ya viene endulzada."
+      },
+      "model": "recipe.Recipe",
+      "pk": 56
+    },
+    {
+      "fields": {
+        "calories": 450,
+        "carbs": 120,
+        "fat": 50,
+        "image": "image.jpeg",
+        "name": "Brownies rápidos",
+        "owner": 0,
+        "portions": 6,
+        "proteins": 15,
+        "time": 10,
+        "tips": "Conservar en bolsa plástica o cubierto de papel film. Es importante que el molde o fuente sea apto para microondas. Recuerda nunca utilizar nada que contenga metal dentro de un microondas."
+      },
+      "model": "recipe.Recipe",
+      "pk": 57
+    }
+  ]
