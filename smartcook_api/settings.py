@@ -24,14 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = environ.get(
-    'SECRET_KEY', 'django-insecure-p7fqi+m8tmu1on4j!(+fk=gl8m3f-fd2rr*$k1fvvawp!1=6a2')
+SECRET_KEY = environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = bool(environ.get('DEBUG', 'true'))
+DEBUG = bool(environ.get('DEBUG'))
 
-ALLOWED_HOSTS = environ.get(
-    'DJANGO_ALLOWED_HOSTS', "127.0.0.1 1xlqmioxw2.execute-api.us-east-1.amazonaws.com").split(" ")
+ALLOWED_HOSTS = environ.get('DJANGO_ALLOWED_HOSTS').split(" ")
 SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
 
 
@@ -95,11 +93,11 @@ WSGI_APPLICATION = 'smartcook_api.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': environ.get('DB_NAME', 'smartcookDjangoProject'),
-        'USER': environ.get('DB_USER', 'smartcookdbuser'),
-        'PASSWORD': environ.get('DB_PASSWORD', 'wSkjxJ5ZOwXpcPtykNl5'),
-        'HOST': environ.get('DB_HOST', 'smartcookdjangoproject.c4lxms0fhjab.us-east-1.rds.amazonaws.com'),
-        'PORT': environ.get('DB_PORT', '5432'),
+        'NAME': environ.get('DB_NAME'),
+        'USER': environ.get('DB_USER'),
+        'PASSWORD': environ.get('DB_PASSWORD'),
+        'HOST': environ.get('DB_HOST'),
+        'PORT': environ.get('DB_PORT'),
     }
 }
 
