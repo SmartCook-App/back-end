@@ -5,14 +5,15 @@ from rest_framework.response import Response
 from rest_framework import status
 from django.http import Http404
 
+from apps.recipe import serializers
+
 # Para todas las recetas
 
 
 class Recipe_APIView(APIView):
     def get(self, request, format=None, *args, **kwargs):
-        recipe = Recipe.objects.all()
-        serializer = RecipeSerializer(recipe, many=True)
-
+        recipes = Recipe.objects.all()
+        serializer = RecipeSerializer(recipes, many=True)
         return Response(serializer.data)
 
     def post(self, request, format=None):
@@ -23,6 +24,7 @@ class Recipe_APIView(APIView):
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 # Para una receta en específico
+
 
 class Recipe_APIView_Detail(APIView):
     def get_id(self, pk):

@@ -19,8 +19,8 @@ from apps.user.views import User_APIView, User_APIView_Detail
 
 
 urlpatterns = [
-    path('recipe/', Recipe_APIView.as_view()),
-    path('recipe/<int:pk>/', Recipe_APIView_Detail.as_view()),
+    path('recipes/', Recipe_APIView.as_view()),
+    path('recipes/<int:pk>/', Recipe_APIView_Detail.as_view()),
     path('user/', User_APIView.as_view()),
     path('user/<int:pk>/', User_APIView_Detail.as_view()),
 ]

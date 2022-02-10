@@ -2,7 +2,7 @@
   "dev": {
     "aws_region": "us-east-1",
     "django_settings": "smartcook_api.settings",
-    "profile_name": "fivaldivia",
+    "profile_name": "mjtala",
     "project_name": "back-end",
     "runtime": "python3.8",
     "s3_bucket": "zappa-znkwkg2fl",
@@ -15,7 +15,9 @@
         "subnet-0dcbbd179197a659c",
         "subnet-0a13d09ce54c4ac94"
       ],
-      "SecurityGroupIds": ["sg-072ea68dd216e8561"]
+      "SecurityGroupIds": [
+        "sg-072ea68dd216e8561"
+      ]
     },
     "environment_variables": {
       "SECRET_KEY": "django-insecure-p7fqi+m8tmu1on4j!(+fk=gl8m3f-fd2rr*$k1fvvawp!1=6a2",

@@ -14,7 +14,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from os import environ
 
-#talvez hay que sacarlo
+# talvez hay que sacarlo
 load_dotenv()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -133,7 +133,6 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
-
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
