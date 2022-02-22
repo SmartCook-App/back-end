@@ -299,3 +299,6 @@ data
 
 # api_venv
 SmartCook_API_venv/
+
+# zappa credentials
+zappa_settings.json
