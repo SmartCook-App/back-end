@@ -16,11 +16,14 @@ Including another URLconf
 from django.urls import path
 from apps.recipe.views import Recipe_APIView, Recipe_APIView_Detail
 from apps.user.views import User_APIView, User_APIView_Detail
+from apps.dishCategory.views import DishCategory_APIView, DishCategory_APIView_Detail
 
 
 urlpatterns = [
     path('recipes/', Recipe_APIView.as_view()),
     path('recipes/<int:pk>/', Recipe_APIView_Detail.as_view()),
-    path('user/', User_APIView.as_view()),
+    path('users/', User_APIView.as_view()),
     path('user/<int:pk>/', User_APIView_Detail.as_view()),
+    path('dishcategories/', DishCategory_APIView.as_view()),
+    path('dishcategory/<int:pk>/', DishCategory_APIView_Detail.as_view()),
 ]
